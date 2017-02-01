@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* Own CSS Document for timeline */
+
+
+#timeline-embed {
+	background-color: #f6f6f6;
+}
+
+#timeline-embed {
+	width: 100%;
+	height: 600px;
+}
+/* minor ticks hidden */
+.tl-timeaxis-minor {
+	display: none;
+}
+/* linke Menübar in Timeline hidden */
+.tl-menubar {
+	display: none;
+}
+/* Thumbnail in Timeline hidden */
+.tl-timemarker-media-container {
+	display: none;
+}
+/* kleine Werbung links unten */
+.tl-timenav .tl-attribution {
+	display: none;
+}
