@@ -1,0 +1,12 @@
+<p>Bis und mit 1949: MV</p>
+<p>Ab 1949: WB</p>
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+</body>
+</html>
