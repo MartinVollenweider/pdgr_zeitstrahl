@@ -12,28 +12,103 @@
     "events": [
       {
         "media": {
-          "url": "assets/Aufnahmeregister_1892.JPG",
-          "caption": "Gründungsurkunde"
+          "url": "assets/1847_01.jpg",
+          "caption": "Klinik Pirminsberg"
+        },
+        "start_date": {
+          "year": "1847"
+        },
+        "text": {
+          "headline": "Klinik Pirminsberg",
+          "text": "<p>1847 wird im zehn Jahre zuvor aufgelösten Benediktinerkloster von Pfäfers (SG) die Klinik St. Pirminsberg eröffnet. Hier werden Patienten aus Graubünden im Rahmen der eigenen Möglichkeit für ein Jahr zur Begutachtung aufgenommen. Die unheilbar Kranken werden anschliessend nach Fürstenau verlegt.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "assets/1850_01.jpg",
+          "caption": "Fixierung"
+        },
+        "start_date": {
+          "year": "1850"
+        },
+        "text": {
+          "headline": "Fixierung",
+          "text": "<p>Mitte 19. Jahrhundert wurden in psychiatrischen Anstalten «unruhige, unfolgsame, schreiende und gefährliche Irre» auf dem Zwangsstuhl, auch Beruhiger (Tranquilizer) genannt, festgebunden. Je nach Schweregrad des «Kranken» wurde er tagelang fixiert. Man glaubte, dass er durch die unangenehme Lage ruhig, besonnen und folgsam werde.</p>"
+        }
+      },
+	  {
+        "start_date": {
+          "year": "1855"
+        },
+        "text": {
+          "headline": "Anstalt Realta",
+          "text": "<p>1855 wird die Anstalt Realta eröffnet, wohin die Patienten nun verlegt werden.</p>"
+        }
+      },
+	  {
+        "start_date": {
+          "year": "1874"
+        },
+        "text": {
+          "headline": "Anzahl Geisteskranke",
+          "text": "<p>1874 ergibt eine bei Gemeinden und Pfarrämtern im Kanton in Auftrag gegebene Zählung einen Bestand von etwa 200 Geisteskranken, davon leben 69.5% zu Hause und 15% in der kantonalen Anstalt Realta.</p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "assets/1877_01.jpg",
+          "caption": "Bündner Hilfsverein"
         },
         "start_date": {
           "year": "1877"
         },
         "text": {
-          "headline": "Gründung Bündnerischer Hülfsverein",
-          "text": "<p>Gründer: Johann Friedrich Kaiser, zusammen mit Baron von Loes Stiftung und weiterer Finanzierer beginnt 1888 Bau einer Heil- und Pflegeanstalt in Chur.</p>"
+          "headline": "Gründung Bündner Hilfsverein",
+          "text": "<p>1877 wird auf Initiative des Sanitätsarztes Johann Friedrich Kaiser, der sich stark in der «Irrenfrage» engagiert, der Bündnerische Hilfsverein für Geisteskranke gegründet. Ziel des Vereins ist in erster Linie die Gründung einer kantonalen Irren-, Heil- und Pflegeanstalt.</p>"
+        }
+      },		
+	  {
+        "start_date": {
+          "year": "1884"
+        },
+        "text": {
+          "headline": "Baron von Loë",
+          "text": "<p>Der aus Westfalen stammende Baron von Loë hatte 1854 seine Heimat unter Aufgabe der preussischen Staatszugehörigkeit verlassen und sich in Österreich niedergelassen, wo er den Titel eines k.k. österreichischen Rittmeisters annahm. Weil er es auch dort nicht lange aushielt, reiste er mittlerweile heimatlos geworden, oft durch Graubünden und erfuhr hier später als kranker, fast gelähmter Mann Linderung seiner Leiden. Aus Dankbarkeit für die glücklichsten Jahre seines Lebens vermachte er in seinem Testament vom 20. Juli 1880, beurkundete Fassung 20. November 1884, sein ganzes Vermögen von Fr. 650'000.– zum Bau eines Hospitals für unbemittelte Körperkranke dem Kanton. Da der hochherzige Donator, dessen Vermächtnis mit einer einfachen Empfangsbestätigung von 6 Zeilen durch den Kanzleidirektor verdankt wurde (schreibt G. Bener-Lorenz in den «Persönlichen Erinnerungen» S. 199), die Verwendung seines Geschenkes noch zu erleben wünschte, kam die Sache beim Kanton in Fluss.</p><p><button onclick='modalOpen(1884)'>Details</button></p>"
         }
       },
-      {
+	  {
         "media": {
-          "url": "assets/Klinik_Waldhaus_1892.JPG",
-          "caption": "Klinik Waldhaus im Jahr 1892"
+          "url": "assets/1889_01.jpg", 
+          "caption": "Impressionen des Baus"			
         },
         "start_date": {
-          "year": "1882"
+          "year": "1889"
+        },
+        "text": {
+          "headline": "Bau",
+          "text": "<p>Nach der Volksabstimmung von 7. April 1889, die mit 11230 Ja zu 391 Nein als einmaliges Glanzresultat in die Geschichte einging, wurde mit dem Bau begonnen. Der als einstöckig geplante Haupttrakt wird gleich zweistöckig gebaut. Die unterschiedlichen Angaben der Quellen zweistöckig oder dreistöckig liegen im baugeschichtlich falschen Mitzählen des Hochparterres begründet. Die Anstalt wird für 200 Patienten gebaut. Finanziell mitgetragen wird der Bau dank einer Schenkung des Freiherrn Clemens von Loë.</p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "assets/1890_01.jpg",
+          "caption": "Dr. Johann Josef Jörger"
+        },
+        "start_date": {
+          "year": "1890"
+        },
+        "text": {
+          "headline": "1890 – 1930",
+          "text": "<p>Direktor Dr. Johann Josef Jörger</p><p>1890 wird der damalige Assistenzarzt von St. Pirminsberg erster Chefarzt und Direktor der Anstalt Waldhaus. Ganze 40 Jahre leitet und prägt die originelle Persönlichkeit die Anstalt. Der 1860 in Vals geborene J.J. Jörger gilt als erster Bündner Psychiater. Als Wissenschaftler wird Dr. J.J. Jörger durch seine Studie über Erbforschung und seine Psychiatrischen Familiengeschichten über Bündner Vagantensippen bekannt. Als Schriftsteller verfasst er Arbeiten über Valser Sagen und Volkskunde und schreibt viele Erzählungen im urchigen Valserdialekt.</p><p>Neben der Anwendung des Deckelbades und der Zwangsjacke legte Dr. J.J. Jörger grossen Wert darauf die Patienten zu beschäftigen. Auf allen Frauenabteilungen wurde genäht, gestrickt und geflickt, andere Kranke halfen in der Küche und in der Lingerie mit. Die Männer arbeiteten in der Landwirtschaft und im Garten.</p><p><button onclick='modalOpen(1890)'>Details</button></p>"
+        }
+      },		
+	  {
+        "start_date": {
+          "year": "1892"
         },
         "text": {
           "headline": "Eröffnung Klinik Waldhaus",
-          "text": "mit 200 Betten, damals unter dem Namen „Graubündner Irren- und Krankenanstalt Waldhaus“."
+          "text": "<p>1892 wird die Klinik Waldhaus am 29. Mai eröffnet. Schon bald aber zeigt es sich, dass die neue Klinik zu klein konzipiert wurde und viele Aufnahmegesuche abgelehnt werden müssen.</p><p>Zu den geladenen Gästen gehören Direktoren auswärtiger Anstalten, St. Pirminsberg, St. Urban, Königsfelden, sowie Forel vom Burghölzli und Wille von Basel.</p><p>Dr. J.F. Kaiser schlägt vor, im Eingang des Hauptportales eine Gedenktafel zu Ehren des Donators Baron Freiherr von Loe anzubringen.</p><p>Nach einem von den Churer Vereinen «Männerchor» und «Frohsinn» gesungenen Lied hält Regierungsrat Walser die Festrede. Danach besichtigen die Gäste und dann das Publikum Räume und Einrichtungen der neuen Anstalt. Beim anschliessenden Buffet für die offiziell Geladenen erinnert Regierungsrat Plattner daran, dass in diesen Räumen, in welchen berechtigt Festfreude herrscht, gar bald arme Irre, ihrer Vemunft beraubt, stieren Blickes, scheuen Schrittes ein bedauernswertes Dasein führen werden.</p><p>Der Personalbestand im Eröffnungsjahr der Anstalt Waldhaus beträgt 22 Wärter und Wärterinnen und 14 Personen als Dienst- und Ökonomiepersonal Betreut werden 113 Geistes- und 8 Körperkranke).</p>"
         }
       },
 		{
@@ -41,80 +116,252 @@
           "url": "assets/leer.png",
           "caption": "Legende"
         },
+        "start_date": {
+          "year": "1895"
+        },
+        "text": {
+          "headline": "Die ersten Betriebsjahre",
+          "text": "<p>Der Direktor bezieht laut Beilage III, Besoldungstafel, ein Gehalt von Fr. 6000.–, der Verwalter Fr. 3000.–, die beiden Geistlichen Fr. 250.– bis 300.–. Maschinist und Heizer mit Fr. 1600.– bis 1800.– sind besser gestellt als Oberwärter mit Fr. 800.– bis 1000.–. Die Oberwärterin bezieht mit Fr. 600.– bis 800.– gleichviel wie die Lingere, ein Wärter hat den gleichen Anfangslohn wie ein Knecht Fr. 350.–, erreicht im «Maximum» aber mit Fr. 550.– Fr.50.– mehr. Als Disziplinarmittel gegen Beamte steht dem Direktor u.a. die Kompetenz einer «Ordnungsbusse bis auf Fr. 10.– zu Gunsten der Trinkgeldkasse» (§ 12) zu. Der Verwalter hat den täglichen Speisezettel dem Direktor zur Visierung vorzulegen (§ 26) und sorgt (§ 28) für «gehörige Handhabung der Feuerlöschordnung der Anstalt». Der Assistenzarzt darf ohne Erlaubnis des Direktors die Anstalt nicht verlassen (§ 31).<br>Assistenzarzt und Personal haben mittags und abends Anspruch auf 2 - 3 dl Wein.</p>"
+        }
+      },
+		{
+        "start_date": {
+          "year": "1896"
+        },
+        "text": {
+          "headline": "Personelles",
+          "text": "<p>Aufstockung des Personalbestandes auf 15 Wärter (inkl. 3 Privatwärter) und 14 Wärterinnen (inkl. 3 Wärterinnen). Betreut werden 250 Kranke.</p>"
+        }
+      },		
+		{
+        "media": {
+          "url": "assets/1900_01.jpg",
+          "caption": "Legende"
+        },
+        "start_date": {
+          "year": "1900"
+        },
+        "text": {
+          "headline": "Deckelbad und Zwangsjacke",
+          "text": "<p>Das Deckelbad und die Zwangsjacke werden auch zu Beginn dieses Jahrhunderts im Waldhaus verwendet.</p><p>Dr. O. Snell schreibt in seinem Buch «Grundzüge der Irrenpflege für Studierende und Ärzte»: Bäder sind in allen Abteilungen notwendig. Sie dienen zwei verschiedenen Zwecken: <br>zur Hautpflege und als direktes Beruhigungsmittel. Vorrichtungen die dazu dienen, den Kranken in der Badewanne gegen seinen Willen festzuhalten (sog. Deckelbadewannen) halte ich grundsätzlich für verwerflich. Dabei gebe ich zu, dass man durch die Vermeidung dieses Zwangsmittel bei einer Anzahl von unruhigen Kranken auf ein wirksame Beruhigungsmittel verzichtet, denn es wird wohl von keiner Seite mehr bestritten, dass es kein besseres und ungefährlicheres Mittel zur Herbeiführung von Ruhe und Schlaf bei erregten Geisteskranken gibt als ein warmes Bad von halbstündiger bis zweistündiger Dauer.</p><p>Zur Verwendung der Zwangsjacke schreibt derselbe Arzt: «Es liegt auf der Hand, dass man den Kranken eine Wohltat erweist, wenn man sie vor schwerer Selbstbeschädigung schützt. Kommt man also mit den Handschuhen».</p>"
+        }
+      },
+		{
+        "media": {
+          "url": "assets/1901_01.jpg",
+          "caption": "Legende"
+        },
+        "start_date": {
+          "year": "1901"
+        },
+        "text": {
+          "headline": "Zwangshandschuhe",
+          "text": "<p>Die ledernen Zwangshandschuhe wurden für Patienten mit Selbstgefährdung verwendet. Sie konnten so weder andere noch sich selber verletzen oder kratzen.</p><p>Bettengurte wurden bei geistig Verwirrten zur Verwahrung bei Fremdgefährdung angewandt. Der Patient war oft tagelang festgebunden.</p><p>Eine einfacher Art, den Patienten in seiner Bewegungsfreiheit einzuschränken, war der Fesselgurt.</p>"
+        }
+      },
+		{
+        "media": {
+          "url": "assets/1901_02.jpg",
+          "caption": "Legende"
+        },
+        "start_date": {
+          "year": "1901"
+        },
+        "text": {
+          "headline": "Personelles",
+          "text": "<p>Aufstockung auf 19 Wärter und 22 Wärterinnen (Betreut werden 250 Kranke)</p><p>Die Klinik wird mit zwei Bauten vergrössert. Neu hat die Klinik Waldhaus Platz für 175 Patienten.</p>"
+        }
+      },
+		{
+        "media": {
+          "url": "assets/1905_01.jpg",
+          "caption": "Legende"
+        },
+        "start_date": {
+          "year": "1905"
+        },
+        "text": {
+          "headline": "Ausbildung Pflegepersonal",
+          "text": "<p>1905 findet regelmässig Unterricht durch Vorträge für das Pflegepersonal in der kantonalen psychiatrischen Klinik Rheinau in Zürich statt. Durch das 1921 gegründete Anstaltskartell des Schweizerischen Gemeinde- und Staatsarbeiterverbandes (VPOD) erfolgt 1922 die Herausgabe der Berufszeitschrift «Kranken- und Irrenpflege», jetzt «Praktische Psychiatrie». Redaktoren sind: Dr. W. Morgenthaler für den fachlichen Teil und J. Henggeler fiir den gewerkschaftlichen Teil. Der erste Lehrplan zur Ausbildung des Pflegepersonals in den Schweizerischen Irrenanstalten wird von der Wirtschaftskommission des Schweizerischen Psychiatrievereins in Verbindung mit Vertretern des Personals aufgestellt. In den kommenden Jahren werden von Dr. W. Morgenthaler erste Prüfungsvorschriften ausgearbeitet. Wenige Jahre später erscheint die Auflage seines Lehrbuchs «Die Pflege der Gemüts und Nervenkranken 1930», ein halbes Jahr später folgt die französische Ausgabe.</p>"
+        }
+      },
+		{
+        "start_date": {
+          "year": "1906"
+        },
+        "text": {
+          "headline": "Aus dem Jahresbericht 1906",
+          "text": "<p>«Die Todesfälle sind wieder so zahlreich, wie im letzten Jahre. Der Hauptanteil fällt auf alte Leute, die zum Teil über 20 Jahre im Irrenhaus wohnen. Vierzehn der Gestorbenen zählen im Durchschnitt ein Alter von 74,4 Jahre, weitere sechs waren stark über 60 Jahre alt. Der Umstand, dass mehrere dieser Greise in einer Woche zur Beerdigung gelangten, machte sich die Fama zu Nutzen und verbreitete in Chur und im Kanton das Gerücht, die Irren des Waldhauses hätten sich eine blutige Schlacht geliefert, aus welchem Gemetzel sechs Leichen aufgehoben und samthaft beerdigt worden seien. Wir wurden von verschiedenen Seiten angefragt, ob &rsaquo;der Ihrige&lsaquo; nicht auch dabei sei.</p><p>Dieser Tage erhielten wir die Nachricht, dass eine Familie um ihren im Waldhaus vor dieser Zeit verstorbenen Bruder, seit zwei Jahren Trauer trage; die Todesnachricht sei der Familie von glaubwürdiger Seite überbracht worden. Der betreffende Tote sei gegenwärtig sehr munter und der grösste Lärmer des Hauses».</p>"
+        }
+      },
+		{
+        "start_date": {
+          "year": "1911"
+        },
+        "text": {
+          "headline": "Beginn Klassifizierung psychischer Störungen",
+          "text": "<p>1911 erscheint das Buch von Eugen Bleuler, in dem erstmals die «Dementia praecox» oder die Gruppe der Schizophrenien beschrieben wird. Damit beginnt die Klassifizierung der psychischen Störungen.</p>"
+        }
+      },
+		{
         "start_date": {
           "year": "1913"
         },
         "text": {
           "headline": "Über 300 Patienten",
-          "text": "<p>Klinik Waldhaus wird schnell zu klein, 1913 sind es über 300 Patienten.</p>"
+          "text": "<p>Die Klinik betreut immer mehr Patienten, 1913 waren es über 300 Patienten. Deshalb wird 1919 das Asyl Realta im Pavillonstil in Cazis erbaut. Das Asyl Realta hat verschiedene Aufgaben: Abteilungen für Geistes- und Körperkranke, Arbeiterkolonie, das Altersasyl und Korrektionsanstalt. Der 1. Direktor wird Dr. Tuffli. 1924 kaufte der Kanton das Kurhaus Rothenbrunnen, um dort die Alterspatienten zu betreuen.</p>"
         }
       },
 		{
-		"media": {
-		  "url": "assets/leer.png",
-		  "caption": "Legende"
-		},
-		"start_date": {
-		  "year": "1919"
-		},
-		"text": {
-		  "headline": "Erbauung Asyls Realta Cazis",
-		  "text": "<p>Abteilung für Geistes- und Körperkranke, Arbeiterkolonie, Altersasyl und Korrektionsanstalt, heutige Klinik Beverin</p>"
-		}
-	  },
-	  {
+        "start_date": {
+          "year": "1914"
+        },
+        "text": {
+          "headline": "Überbelegung in der Klinik Waldhaus",
+          "text": "<p>1914 werden in der Klinik 346 Patienten statt der geplanten 250 Patienten betreut.</p>"
+        }
+      },		
+		{
+        "start_date": {
+          "year": "1915"
+        },
+        "text": {
+          "headline": "Plan für Erweiterungsbauten",
+          "text": "<p>Aus Kapazitätsgründen müssn Patienten abgewiesen werden Plan für Erweiterungsbauten (Wurde nicht realisiert)</p><p>Die optimistischen Prognosen der Eröffnungsreden, dass das Waldhaus auf lange Zeit hinaus den Bedürfnissen der Geisteskranken Graubündens genügen wird, bewahrheiten sich nicht. Aus den Jahresberichten ist zu entnehmen, dass die Klinik dauernd überfüllt ist und Erweiterungsbauten notwendig werden. Obwohl 2 neue. Häuser gebaut wurden, mussten ausserkantonale Aufnahmegesuche abgelehnt werden und 18 Patienten wurden in andere Pflegeanstalten verlegt. 1912 wurden 111, 1913 67 Aufnahmegesuche abgelehnt. Trotzdem mussten Rekordbelegungen von über 300 Patienten verzeichnet werden.</p>"
+        }
+      },
+		{
+        "start_date": {
+          "year": "1918"
+        },
+        "text": {
+          "headline": "Aus dem Jahresbericht 1918",
+          "text": "<p>Aus dem Jahresbericht 1918</p><p>«Unter den Aufnahmen befinden sich zwei Familien von zusammen 12 Personen, die wegen &rsaquo;religiösem Wahnsinn&lsaquo; von den Behörden der Anstalt zur Beobachtung überwiesen worden sind. Darunter sind drei Minde1jährige, die als Begleiter der Eltern, von denen sie sich nicht trennen wollen, in die Anstalt gebracht worden».</p><p>Die Krankenbehandlung litt auch dieses Jahr mehr als je unter der äussersten Einschränkung des Badebetriebes wegen Mangel an Feuerungsmaterial. Dadurch wurde der Verbrauch an Beruhigungsmitteln aus der Apotheke ein viel grösserer.<br>Die Krankentaxe pro Tag beträgt Fr. 2.08.</p>"
+        }
+      },
+		{
         "media": {
-          "url": "assets/leer.png",
-          "caption": "Legende"
+          "url": "assets/1919_01.jpg",
+          "caption": "Eröffnung Klinik Beverin"
         },
         "start_date": {
           "year": "1919"
         },
         "text": {
-          "headline": "Eröffnung Asyl Realta",
-          "text": "<p>Im Mai bereits 226 Patienten und somit überfüllt</p>"
+          "headline": "Eröffnung Klinik Beverin",
+          "text": "<p>1919 wird das Asyl Realta mit neun Häusern im Pavillonstil eröffnet und eine Trennung der chronisch Kranken von Delinquenten im Strafvollzug vorgenommen. Das neue Asyl übernimmt verschiedene Aufgaben: Abteilungen für Geistes- und Körperkranke, Arbeiterkolonie, ein Altersasyl, eine Trinkerheilanstalt und eine getrennte Besserungsanstalt.</p>"
         }
       },
-      {
-        "media": {
-          "url": "assets/70.jpg",
-          "caption": "Klinik Waldhaus im Jahr 2017"
-        },
-        "start_date": {
-          "year": "2017"
-        },
-        "text": {
-          "headline": "Die Klinik heute",
-          "text": "Aktuell verfügt die Klinik über 107 Betten, welche auf verschiedene Stationen verteilt sind.<br>Zu den stationären Behandlungsschwerpunkten gehören die Akut- und Rehabilitationspsychiatrie, die Gerontopsychiatrie, die Psychotherapie sowie die schweizweit einzige Tinnitusklinik."
-      }
-      },
 		{
-        "media": {
-          "url": "assets/leer.png",
-          "caption": "Legende"
-        },
         "start_date": {
           "year": "1920"
         },
         "text": {
-          "headline": "Einführung Gruppenpsychotherapie",
-          "text": "<p>Text dazu</p>"
+          "headline": "Beginn Gruppenpsychotherapie",
+          "text": "<p>1920 führt Moreno das Psychodrama in die Behandlung ein, womit eigentlich der Grundstein zur Gruppenpsychotherapie gelegt ist. 1935 - 1938 werden neue biologische Behandlungsmöglichkeiten eingeführt: Insulintherapie, Cardiazol-Krampfbehandlung und Elektrokrampfbehandlung.</p>"
+        }
+      },		
+		{
+        "start_date": {
+          "year": "1925"
+        },
+        "text": {
+          "headline": "Schlaftherapie wird eingeführt",
+          "text": "<p>Die Schlaftherapie, eine Schlaf- oder Dämmerkur, war eine in den 1920er und 1930er Jahren verbreitete Behandlungsform der Schizophrenie. Diese Behandlung, eine Art Dauernarkose, wurde mehrere Tage angewendet und war recht aufwendig. Der Patient erhielt mehrmals täglich Largactil-Tabletten um zu schlafen. Kaum er-wacht, wurde erneut Largactil nachgegeben. Bei unzureichender Pflege traten oft Todesfälle auf.</p>"
+        }
+      },		
+		{
+        "start_date": {
+          "year": "1926"
+        },
+        "text": {
+          "headline": "Aus dem Jahresbericht 1926",
+          "text": "<p>1. Ärztlicher Bericht<br>«Die alljährlich zu konstatierende Steigerung der Frequenz hat im Jahre 1926 wieder eine Verstärkung erfahren gegenüber dem Jahre 1925. Die Zahl der Insassen stieg von 370 im Anfang des Jahres auf 406 am Schlusse.<br>Die Grenzen der Aufnahmefähigkeit ist nun erreicht bei der Irrenabteilung, wo gerade die Häuser für Unruhige angefüllt sind, so dass schon Schwierigkeiten sich ergaben bei frischen Aufnahmen».</p>"
         }
       },
 	  {
         "media": {
-          "url": "assets/leer.png",
+          "url": "assets/1930_01.jpg",
           "caption": "Legende"
         },
         "start_date": {
-          "year": "1935"
+          "year": "1930"
         },
         "text": {
-          "headline": "neue Behandlungen",
-          "text": "<p>neue biologische Behandlungsmöglichkeiten und Elektrokrampfbehandlungen</p>"
+          "headline": "Chefarzt Dr. J.B. Jörger 1930 – 1946",
+          "text": "<p>Hauptsächlich therapeutische Veränderungen:</p><ul><li>Ausbau der Arbeitstherapie</li><li>Einführung der Insulinkur</li><li>Die künstlich Erzeugten Epileptischen Krampfanfälle mit Cardiazol bei Schizophrenen werden durch die Elektroschock-Behandlung ersetzt.</li></ul><p>Hauptsächlich bauliche Veränderungen:</p><ul><li>Wachsäle werden erstellt (für Bettenbehandlung wie Insulinkuren ect.)</li><li> Umbauten und Renovationen von Krankenstationen</li></ul>"
         }
-      }
-		
-
+      },
+      {
+		 "start_date": {
+          "year": "1933"
+        },
+        "text": {
+          "headline": "Schweizerische Zentralstelle für praktische Psychiatrie",
+          "text": "<p>Gründung der Schweizerischen Zentralstelle für praktische Psychiatrie, welche in der ganzen Schweiz die Ausbildung und Vergabe der Diplome kontrolliert.</p>"
+        }
+      },		
+	  {
+        "media": {
+          "url": "assets/1937_01.jpg",
+          "caption": "Legende"
+        },
+        "start_date": {
+          "year": "1937"
+        },
+        "text": {
+          "headline": "Einführung Elektrokrampftherapie",
+          "text": "<p>Ab 1937 wurde die Elektrokrampftherapie (EKT) eingeführt. Dabei handelt es sich um einen bewusst erzeugten Elektroschock auf den Organismus, der einen therapeutischen Krampfanfall auslöste, um die Ausschüttung von Neurotransmittern und Neurohormonen zu stimulieren.</p><p>Elektroschockgeräte entstanden in den 1930er Jahren und wurden als Standartbehandlung für alle Geisteskrankheiten bis in die 1970er Jahre benutzt. In der Klinik Waldhaus führte Oberärztin Dr. Elisabeth Vosseler im Jahre 1978 die letzten Elektroschock-behandlungen durch (im 2. OG des Hauptgebäudes).</p>"
+        }
+      },
+	  {
+        "start_date": {
+          "year": "1939"
+        },
+        "text": {
+          "headline": "Verbesserung Anstellungsbedingungen",
+          "text": "<p>Durch den Kleinratsbeschluss vom 10. Februar 1939 werden die Anstellungsbedingungen des Personals in mehrfacher Hinsicht verbessert:</p><ul><li>Freizeiterweiterung</li><li>Wohnzulagen für verheiratete Angestellte abgestuft nach Kinderzahl</li><li>Lohnmaximum wird von 10 auf 8 Jahre herabgesetzt</li><li>Kostgeldvergütung für Urlaubstage</li><li>Das Recht auf eine Gartenparzelle</li></ul>"
+        }
+      },
+	  {
+        "start_date": {
+          "year": "1943"
+        },
+        "text": {
+          "headline": "Ausbau von Assistenzarztstellen",
+          "text": "<p>Eine dritte Assistenzarzt-Stelle wird für die Heil- und Pflegeanstalt Realta geschaffen.</p>"
+        }
+      },		
+	  {
+        "start_date": {
+          "year": "1944"
+        },
+        "text": {
+          "headline": "1. Pflegeexamen",
+          "text": "<p>Die ersten Prüfungen im Kanton Graubünden finden in der Anstalt Realta statt. 19 Kandidaten bestehen das Examen mit Erfolg und können das Diplom der Schweiz. Gesellschaft für Psychiatrie entgegennehmen.</p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "assets/1946_01.jpg",
+          "caption": "Legende"
+        },
+        "start_date": {
+          "year": "1946"
+        },
+        "text": {
+          "headline": "Chefarzt Dr. F. Singeisem 1946 – 1952",
+          "text": "<p>Wesentliche Veränderungen:</p><ul><li>Modernisierung der Beschäftigungstherapien</li><li>Medikamentöse Entwöhnungskuren für Alkohol-Kranke</li><li>Ausbildung des Pflegepersonals</li><li>Verbesserung der Zusammenarbeit mit Behörden und Spezialärzten</li></ul><p>Die Siedlung «Montalin» wird fertiggestellt und von Mitarbeitenden bezogen.</p>"
+        }
+      },
+		{
+         "start_date": {
+          "year": "1948"
+        },
+        "text": {
+          "headline": "Reduktion Arbeitszeit für Pflegerinnen",
+          "text": "<p>Nachdem für Pfleger schon längere Zeit der 10 Stunden-Tag Gültigkeit hat, wird nun auch für Pflegerinnen diese Verbesserung eingeführt.</p>"
+        }
+      }	
     ]
 }
