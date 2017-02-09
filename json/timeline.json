@@ -1064,6 +1064,20 @@
         "text": "<p>Die Regionalisierung wird auch auf den ambulanten Bereich ausgedehnt.</p>"
       }
     },
+		{
+        "media": {
+          "url": "assets/leer.png"
+        },
+        "start_date": {
+          "year": "1992"
+        },
+        "text": {
+          "headline": "100 Jahre Psychiatrische Klinik",
+          "text": "<p>Abschluss der ersten Bauetappe und Bezug der neuen Patientenhäuser sowie des Wohnheims Montalin</p>"
+        }
+      },		
+		
+		
     {
         "media": {
           "url": "assets/leer.png"
@@ -1077,9 +1091,9 @@
       }
     },
     {
-         "media": {
+     "media": {
           "url": "assets/leer.png"
-		},
+	},
      "start_date": {
         "year": "1992"
       },
@@ -1100,18 +1114,19 @@
         "text": "<p>Bezug der neuen Patientenhäuser im Februar in der Klinik Waldhaus.</p>"
       }
     },
-    {
-      "media": {
-        "url": "assets/platzhalter.jpg"
-      },
-      "start_date": {
-        "year": "1993"
-      },
-      "text": {
-        "headline": "Sanierung Klinik Waldhaus",
-        "text": "<p>Abschluss bauliche Sanierung Klinik Waldhaus für CHF 45 Mio.</p>"
-      }
-    },
+	{
+     	"media": {
+        	"url": "assets/leer.png"
+        },
+        "start_date": {
+        	  "year": "1993"
+        },
+        "text": {
+          "headline": "Einweihung des Neu- und Umbaus der Psychiatrischen Klinik Waldhaus",
+          "text": "<p>Abschluss bauliche Sanierung Klinik Waldhaus für CHF 45 Mio.</p><p>Tag der Offenen Tür mit über 3000 Besucherinnen und Besuchern</p><p>Erstes unabhängiges Beratungsbüro der Vereinigung der Angehörigen Schizophrenie- und Psychisch-Kranken (VASK) in einer psychiatrischen Klinik der Schweiz nimmt den Betrieb auf.</p>"
+        }
+      },		
+    
     {
          "media": {
           "url": "assets/leer.png"
@@ -1121,7 +1136,7 @@
       },
       "text": {
         "headline": "Tagesklinik",
-        "text": "<p>Eröffnung erste Psychiatrische Tagesklinik in Graubünden</p>"
+        "text": "<p>Eröffnung erste Psychiatrische Tagesklinik in Graubünden</p><p>Neue Wohngruppe für psychisch Behinderte</p>"		  
       }
     },
     {
@@ -1136,6 +1151,18 @@
         "text": "<p>Eröffnung Drogenentzugs- und Übergangsstation Downtown, Klinik Beverin</p>"
       }
     },
+		{
+        "media": {
+          "url": "assets/leer.png"
+        },
+        "start_date": {
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Psychotherapiestation nimmt den Betrieb auf",
+		  "text": "<p>Erstes Klinikinformationssystem (KIS) in einer psychiatrischen Klinik der Schweiz (Elektronische Krankengeschichte)</p>"
+        }
+      },		
     {
          "media": {
           "url": "assets/leer.png"
@@ -1148,6 +1175,18 @@
         "text": "<p>1. Internetaufritt der Kliniken und Heimzentren</p>"
       }
     },
+		{
+        "media": {
+          "url": "assets/leer.png"
+        },
+        "start_date": {
+          "year": "2000"
+        },
+        "text": {
+          "headline": "Eröffnung Gerontopsychiatrische Tagesklinik",
+          "text": "<p>Eröffnung Memory Klinik mit Demenzabklärung</p>"
+        }
+      },		
     {
       "media": {
         "url": "assets/platzhalter.jpg"
@@ -1402,6 +1441,18 @@
 		"text": "<p></p>"
       }
     },
+				{
+        "media": {
+          "url": "assets/leer.png"
+        },
+        "start_date": {
+          "year": "2009"
+        },
+        "text": {
+          "headline": "20 Jahre VASK Graubünden",
+          "text": "<p>20 Jahre VASK Graubünden (Vereinigung der Angehörigen von Schizophrenie- und Psychisch-Kranken)</p>"
+        }
+      },
     {
          "media": {
           "url": "assets/leer.png"
