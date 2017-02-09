@@ -340,28 +340,1193 @@
           "headline": "1. Pflegeexamen",
           "text": "<p>Die ersten Prüfungen im Kanton Graubünden finden in der Anstalt Realta statt. 19 Kandidaten bestehen das Examen mit Erfolg und können das Diplom der Schweiz. Gesellschaft für Psychiatrie entgegennehmen.</p>"
         }
+      },{
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
       },
-	  {
-        "media": {
-          "url": "assets/1946_01.jpg",
-          "caption": "Legende"
-        },
-        "start_date": {
-          "year": "1946"
-        },
-        "text": {
-          "headline": "Chefarzt Dr. F. Singeisem 1946 – 1952",
-          "text": "<p>Wesentliche Veränderungen:</p><ul><li>Modernisierung der Beschäftigungstherapien</li><li>Medikamentöse Entwöhnungskuren für Alkohol-Kranke</li><li>Ausbildung des Pflegepersonals</li><li>Verbesserung der Zusammenarbeit mit Behörden und Spezialärzten</li></ul><p>Die Siedlung «Montalin» wird fertiggestellt und von Mitarbeitenden bezogen.</p>"
-        }
+      "start_date": {
+        "year": "1946"
       },
-		{
-         "start_date": {
-          "year": "1948"
-        },
-        "text": {
-          "headline": "Reduktion Arbeitszeit für Pflegerinnen",
-          "text": "<p>Nachdem für Pfleger schon längere Zeit der 10 Stunden-Tag Gültigkeit hat, wird nun auch für Pflegerinnen diese Verbesserung eingeführt.</p>"
-        }
-      }	
+      "end_date": {
+        "year": "1952"
+      },
+      "group": "Chefärzte",
+      "text": {
+        "headline": "Chefarzt Dr. F. Singeisem",
+        "text": "<p>Wesentliche Veränderungen:</p><ul><li>Modernisierung der Beschäftigungstherapien</li><li>Medikamentöse Entwöhnungskuren für Alkohol-Kranke</li><li>Ausbildung des Pflegepersonals</li><li>Verbesserung der Zusammenarbeit mit Behörden und Spezialärzten</li><li>Öffentlichkeitsarbeit</li></ul><p>Die Siedlung \"Montalin\" wird fertiggestellt und von Mitarbeitenden bezogen.</p>"
+      }
+    },
+
+    {
+      "start_date": {
+        "year": "1948"
+      },
+      "text": {
+        "headline": "Reduktion Arbeitszeit für Pflegerinnen",
+        "text": "<p>Nachdem für Pfleger schon längere Zeit der 10 Stunden-Tag Gültigkeit hat, wird nun auch für Pflegerinnen diese Verbesserung eingeführt. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1950"
+      },
+      "text": {
+        "headline": "Kliniken sind Selbstversorger",
+        "text": "<p>Die psychiatrischen Kliniken waren oft Selbstversorger - Betriebe, weshalb die Arbeiten, z.B. auf dem zugehörigen Bauernbetrieb sowie in Küche und Wäscherei – in den 50er Jahren noch im Waldhaus – zum eigenen Nutzen waren.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1951"
+      },
+      "text": {
+        "headline": "Neuer Name für Asyl Realta",
+        "text": "<p>1951 wird das Asyl Realta in die Klinik Beverin umbenannt. Die einzelnen Stationen erhalten Namen von Bündner Bergen. Das Asyl ist jetzt eine Heilanstalt, denn man möchte die Patienten heilen.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1952"
+      },
+      "end_date": {
+        "year": "1977"
+      },
+      "group": "Chefärzte",
+      "text": {
+        "headline": "Chefarzt Dr. G. Pflugfelder",
+        "text": "<p>Die Umbenennung von der Heil- und Pflegeanstalt zur Psychiatrischen Klinik wurde durch neue therapeutisch Methoden und bauliche Veränderungen sichtbar.</p> <p><b>Behandlung mit Neuroleptika:</b></p> <p>Durch die Anwendung von neu entwickelten Neuroleptika (Largactil, Serpasil) konnten 1/3 der „Chronisch Kranken“ entlassen werden. Insulinkuren und Elektrobehandlungen wurden seltener durchgeführt.Durch die Einführung des Antidepressivum Tofranil konnten nun auch affektive Psychosen gezielt behandelt werden.</p> <p><b>Bauliche Veränderungen:</b></p> <p>Schlafsäle wurden in 3 – 4 Betten-Zimmer umgebaut (Abnahme der Bettenbehandlung) der Estrich wurde für die Ergotherapie ausgebaut. Bau des Schwesternhauses.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1952"
+      },
+      "text": {
+        "headline": "Entdeckung des Neuroleptikums Largactil (Chlopromazin)",
+        "text": "<p>Bei der Erforschung von Antihistaminika (Mittel gegen Allergien) beobachten französische Wissenschaftler als Nebenwirkungen Müdigkeit und Beruhigung. Daraus wird das erste Neuroleptikum Chlorpromazin entwickelt, das 1952 von den französischen Psychiatern Delay, Deniker und Pichot bei der Behandlung von manischen und schizophrenen Psychosen eingesetzt wird. Das Wirkungsbild wird charakterisiert durch psychomotorische Verlangsamung, emotionale Ausgeglichenheit und affektive Indifferenz. Neuroleptika führen zu einer Rezeptorblockade zwischen den Nervenzellen im Gehirn, so dass die Wirksamkeit einer Überträgersubstanz (Dopamin) vermindert ist.</p> <p>Auch heute noch wird Largactil und die weiterentwickelten Neuroleptika zur Behandlung von akuten schizophrenen und manischen Psychosen verwendet, die unter angepasster individueller Medikamentenabgabe rasch abklingen. So können die psychotherapeutischen und sozialtherapeutischen Massnahmen erst wirkungsvoll eingesetzt werden.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1952"
+      },
+      "text": {
+        "headline": "Apomorphin-Kur",
+        "text": "<p>Wie , in den meisten grossen Kliniken der Schweiz werden Entwöhnungskuren bei Alkoholkranken nach der klassischen englischen Methode durchgeführt. Die Kranken liegen im Bett und erhalten während 6 - 8 Tagen nachts dreistündlich, tagsüber alle zwei Stunden eine bestimmte Menge alkoholischer Getränke. Diese werden stets mit einer Injektion Apomorphin, einem starken Brechmittel, kombiniert. Es kommt auf diese Weise während einer Woche zu einer ausgesprochenen Koppelung von Alkoholgenuss mit Übelkeit und Brechen. Häufig kann beobachtet werden, dass vom vierten oder fünften Tag an die Kranken schon beim Anblic􀁺 oder Riechen alkoholischer Getränke Brechreiz verspüren. Auf diese Weise ist es möglich, dem Trunksüchtigen den Alkoholgenuss zu vergällen. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1952"
+      },
+      "text": {
+        "headline": "Elektroschockbehandlung",
+        "text": "<p>Elektroschockbehandlungen werden ab 1952 unter Narkose und mit Curare durchgeführt.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1953"
+      },
+      "text": {
+        "headline": "Baden soll helfen",
+        "text": "<p>Die Hydrotherapie, eine Badekur, sollte beruhigend auf die Patienten wirken.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1953"
+      },
+      "text": {
+        "headline": "Ambulante Nachbetreung wird wichtig",
+        "text": "<p>Durch vermehrte Entlassungen von psychisch kranken Patienten wird die ambulante Nachbetreuung immer wichtiger. Zunächst übernahmen Klinikärzte die Nachbetreuungen. Seit 1953 stehen auch frei praktizierende Psychiater in der Stadt Chur zur Verfügung.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1953"
+      },
+      "text": {
+        "headline": "Behandlung mit Neuroleptika ",
+        "text": "<p>Auch in den Kliniken Waldhaus und Beverin wird das neue Neuroleptikum Largactil bereits im Jahre 1953 eingesetzt. Schon zwei Jahre später können erste Erfolge]ge vermerkt werden. Im Jahresbericht 1955 heisst es, dass \"bei chronisch Kranken dank den eingeführten Medikamenten bei 1/3 aller Fälle Entlassungsfähigkeit erreicht werden konnte, bei einem weiteren Drittel eine erhebliche Anstaltsbesserung erzielt wurde, und das restliche. Drittel unverändert blieb. Durch die noch sehr hohen Kosten dieser Kuren wurde die Anwendungsmöglichkeit stark eingeschränkt.\" An einem Stichtag im November 1956 werden in der Klinik Waldhaus 124 Patienten mit Largactil behandelt. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1954"
+      },
+      "text": {
+        "headline": "Schwesternhaus",
+        "text": "<p>Der Bau des Schwesternhaus, welches durch eine Volksabstimmung genehmigt wurde,  ist fertiggestellt und wird bezogen.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1954"
+      },
+      "text": {
+        "headline": "Entdeckung von Serpasil (Reserpin). ",
+        "text": "<p>1952 isoliert man Reserpin aus einem seit Jahren bekannten blutdrucksenkenden Mittel, das aus einem indischen Strauch Rauwolfia serpentina gewonnen wird. 1954 führt der Amerikaner Kline Reserpin zur Behandlung von Psychosen ein. Bereits vor Jahrhunderten wandte man in Indien Abkochungen dieser Rauwolfiablätter zur Beruhigung von Geisteskranken, unter der Bezeichnung \"Pagal-Ka-Dawa\" (Kraut gegen Wahnsinn) an. <br>Wegen der Nebenwirkungen (Blutdrucksenkung, Auslösung von Depressionen.) hat Reserpin heute in der Psychiatrie keine Bedeutung mehr.<br>Im Jahre 1954 wird das vor zwei Jahren entwickelte Medikament Serpasil bei uns klinisch angewendet.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1954"
+      },
+      "text": {
+        "headline": "Serpasilkuren",
+        "text": "<p>1955 veröffentlicht G. Pfluge]der den Artikel \"Serpasilkuren in der Psychiatrie\", worin er bereits von 100 durchgeführten Kuren berichtet. Es wird folgendes Resümee gezogen: \"Bei einer grossen Zahl von Serpasilpatienten wurden früher · Insulinkuren, speziell aber auch Dämmerkuren und Elektrobehandlungen mit wechselndem Erfolg durchgeführt. Es sei erwähnt, dass wir dank den Scrpasilkuren auf den 'unruhigen' Pflegestationen jetzt viel weniger Elektrobehandlungen und Dämmerkuren durchführen müssen.\"<br>In den 50er Jahren wird die Klinik ausgebaut und modernisiert. Die Gitter an an den Fenster werden durch Sicherheitsglas ersetzt. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1956"
+      },
+      "text": {
+        "headline": "Weitere Reduktion der Arbeitszeit",
+        "text": "<p>Arbeitszeitverkürzung von 60 auf 54 Stunden pro Woche</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1956"
+      },
+      "text": {
+        "headline": "Vermehrter Einsatz von Psychotherapie",
+        "text": "<p>Die Methoden der Psychotherapie bestehen zumeist darin, unbewusste Konflikte aufzudecken, wiederzubeleben und durchzuarbeiten oder mit Hilfe des Gespräches Konfliktlösungen herbeizuführen. <br>Durch ·die Behandlungen mit Largactil und Serpasil hat die Psychotherapie im klinischen Alltag mehr Gewicht erhalten, weil die Patienten dem Gespräch besser folgen können. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1957"
+      },
+      "text": {
+        "headline": "Beginn der Sozialarbeit",
+        "text": "<p>Stellenbeschaffung für eine psychiatrische Fürsorgerin für die beiden Heil- und Pflegeanstalten Beverin und Waldhaus</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1957"
+      },
+      "text": {
+        "headline": "Lehrplan für Psychotherapiepflegeberufe entsteht",
+        "text": "<p>Der Berner Psychiater Walter Morgenthaler engagierte sich darum stark in der Aus-bildungsfrage für den Psychiatriepflegeberuf. Er entwarf einen Lehrplan, formulierte ein Prüfungsreglement und schrieb 1930 das Lehrbuch „Die Pflege der Gemüts- und Geisteskranken“. Doch erst 1957 wurde in Basel eine Schule für psychiatrische Krankenpflege eröffnet.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1957"
+      },
+      "text": {
+        "headline": "Das Antidepressivum Tofranil wird entdeckt",
+        "text": "<p>1957 entdeckt der Schweizer R. Kuhn die antidepressive Wirkung' von Imipramin (Tofranil). Damit wird der Weg zur erfolgreichen Behandlung von Depressionen eröffnet. Die Wirkung der Antidepressiva wird erzielt durch Hemmung der Aufnahme von Üerträgersubstanzen aus dem Spalt zwischen den Nervenzellen im Gehirn </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1958"
+      },
+      "text": {
+        "headline": "Behandlung mit Antidepressiva",
+        "text": "<p>1958 machen die beiden Kliniken Waldhaus und Beverin die ersten Erfahrungen mit dem Antidepressivum Tofranil. So können nun auch Patienten mit affektiven Psychosen gezielt medikamentös behandelt werden.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1959",
+        "month": "8",
+        "day": "20"
+      },
+      "text": {
+        "headline": "Brand in der Klinik Waldhaus",
+        "text": "<p>Am 20. August 1959 fällt der Dachstock mit den Stationen F5 und F6 einem Brand zum Opfer. Die Brandursache kann nie geklärt werden. Während des Wiederaufbaus werden für drei Monate 15 Patienten in die Klinik Beverin verlegt. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1960"
+      },
+      "text": {
+        "headline": "Ab 1960 werden weitere Neuroleptika entdeckt ",
+        "text": "<p>Melleril, Haldol, Trilafon, Fluanxol, Dapotum, Clopixol, Orap, Nozin.an, Prazine und andere Neuroleptika. 1976 wird Leponex als Alternative zu den bisherigen Neuroleptika eingeführt, da keine neurologischen Nebenwirkungen (insbesondere Bewegungsstörungen) auftreten. Allerdings ist Leponex, wegen seiner toxischen Wirkung auf die weisse Blutzellen nur mit Vorsichtsmassnahmen einsetzbar. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1960"
+      },
+      "text": {
+        "headline": "Abriss von Mauern und Zäunen",
+        "text": "<p>Ab 1960 werden die Mauern und Eisenzäune, welche die Kliniken umgeben abgerissen. Abteilungen werden offen geführt. Allmählich verschwinden die Gitter vor den F ens­tem und werden durch Sicherheitsglas ersetzt. Am Haupt­gebäude der Klinik Waldhaus und an zwei Pavillons werden die Fassaden renoviert und die sanitären Einrichtungen erneuert, so dass es in den Schlafsälen Lavabos mit kaltem und warmen Wasser gibt. Grosse Schlafsäle werden in Zweier- und Dreierzimmer umgestaltet. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1960"
+      },
+      "text": {
+        "headline": "Schule für psychiatrische Krankenpflege wird eröffnet",
+        "text": "<p>1960 wird in der Klinik Beverin mit Hilfe von Ernst Seiler die Schule für psychiatrische Krankenpflege aufgebaut. Er selber hielt dort auch Unterricht, während seine Frau Rosmarie als Schulschwester tätig war.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1960"
+      },
+      "text": {
+        "headline": "Neue Arbeitszeit und neue Stellen",
+        "text": "<p>Einführung der 52 Stunden-Woche für das dipl. Pflegepersonal<br>2. Oberarztstelle für die Anstalt Beverin<br>2. Oberarztstelle für die Anstalt Waldhaus</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1964"
+      },
+      "text": {
+        "headline": "Sozialarbeit wird ausgebaut",
+        "text": "<p>Beide Anstalten verfügen nun über eine eigene Fürsorgerin</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1965"
+      },
+      "text": {
+        "headline": "1. Kaderausbildung für Pflegepersonal",
+        "text": "<p>Erster schweizerischer Fortbildungskurs für das Kader des psychiatrischen Pflegepersonals, 20. Sept. - 15. Okt. 1965 in der kantonalen Psychiatrischen Klinik Münsingen Bern. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1965"
+      },
+      "text": {
+        "headline": "Einführung von Turnstunden und Heilgymnastik ",
+        "text": "<p>Angeregt durch einen Vortrag \"Turnen bei psychisch Kranken\", erteilen Pfleger und Schwestern verschiedenen Patientengruppen wöchentlich Turnstunden. Heilgymnastische Ubungen werden auch bei chronischen Patienten erfolgreich eingesetzt. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1967"
+      },
+      "text": {
+        "headline": "Neuer Name für die Heilanstalt Beverin",
+        "text": "<p>1967 erfährt die Heilanstalt Beverin eine neue Namensänderung. Die Bezeichnung Anstalt wird für Gefängnisse eingesetzt. Die Heilanstalt Beverin wird darum neu als Psychiatrische Klinik geführt.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1968"
+      },
+      "text": {
+        "headline": "Ausbildung der Pflegeberufe wird einheitlich",
+        "text": "<p>Vereinbarung zwischen dem Schweizerischen Roten Kreuz und der Schweizerischen Zentralstelle für praktische Psychiatrie und Herausgabe:<ul><li>Des Reglements über die Anerkennung von Schulen ftir Psychiatrische Krankenpflege durch das Schweiz­erische Rote Kreuz</li><li>Der Richtlinien ftir Schulen der psychiatrischen Krankenpflege</li></ul></p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1968"
+      },
+      "text": {
+        "headline": "Ärztestellen werden ausgebaut",
+        "text": "<p>Erhöhung der Arztstellen von 5 auf 7 pro Klinik</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1969"
+      },
+      "text": {
+        "headline": "Drogenpatienten",
+        "text": "<p>Ab 1969 wurden die ersten Drogenpatienten in die Kliniken eingewiesen, was sich für die Ärzte aber auch für das Pflegepersonal als eine neue nicht zu unterschätzende Herausforderung in der stationären Behandlung herausstellte.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1970"
+      },
+      "text": {
+        "headline": "Ausbau Klinik Beverin",
+        "text": "<p>Am 12. April 1970 befürwortet das Bündner Stimmvolk den Kredit von Fr. 5'900'000.- für den Ausbau der Klinik Beverin. Bereits ein Jahr später; wird die Personalkantine und die Cafeteria eingerichtet. Vier Jahre nach der Abstimmung ist das Haus Salvorta, ein sternförmiges Gebäude mit einer Beteilung von 24 Betten und das Therapiehaus mit der Gymnastikhalle erstellt. Ausserdem wird der Arztetrakt mit Büros, Labor und Apotheke am bestehenden Zentralbaus angebaut. Nebenan werden die Personalwohnungen eingerichtet. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1970"
+      },
+      "text": {
+        "headline": "SRK anerkennt die Bünder Schule für Psychiatrische Krankenpflege",
+        "text": "<p>Die Bündner Schule für Psychiatrische Krankenpflege wird durch das SRK anerkannt. Im folgenden Jahr wird der erste gestaffelte Ausbildungskurs für Schulschwestern, Schulpfleger durchgeführt. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1972"
+      },
+      "text": {
+        "headline": "Einführung Kunst- und Maltherapie",
+        "text": "<p>Man erkennt die therapeutische Wirksamkeit des Maiens. Die bildliche Darstellung erlaubt es dem Patienten, sich ohne Worte auszudrücken ( Ausdrucksmalen ). </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1972"
+      },
+      "text": {
+        "headline": "Personelles",
+        "text": "<p>Schaffung einer 2. Stelle für den Sozialdienst in der Klinik Beverin<br>Einführung der 45 Stunden-Woche</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1974"
+      },
+      "text": {
+        "headline": "Neubau Rothenbrunnen",
+        "text": "<p>1974 wird die Aussenstation Rothenbrunnen neu gebaut. Das Wohnheim wird später durch die Beschäftigungs­werkstätten ergänzt. Somit können jüngere Patienten von der Klinik ins Wohnheim verlegt werden, die einen geschützten Wohn- und Arbeitsplatz infolge der psychischen Behinderung benötigen. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1974"
+      },
+      "text": {
+        "headline": "Einführung Ergotherapie",
+        "text": "<p>Die Aufgabe der Ergotherapeutin ist es, den Patienten auf einem Anforderungsniveau zu beschäftigen, das er überblickt und wenn möglich selbständig bewältigen kann. <br>Entsprechend den Schwierigkeiten und Fähigkeiten des Patienten wird ein Therapieprogramm aufgestellt, um die verloren gegangenen Fähigkeiten wiederaufzubauen. <br>Das Angebot von konkreten Aktivitäten in der Ergotherapie erlauben es dem Patienten, sensomotorische Aktivität mit vorstellendem Denken zu verbinden und auch Organisation und Planung wieder einzusetzen.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1975"
+      },
+      "text": {
+        "headline": "Milieugestaltung",
+        "text": "<p>Die Aufhebung der Geschlechtertrennung bewirkt eine natürliche Atmosphäre im Klinikalltag. Zudem machen es die rückläufigen Patientenzahlen möglich, vermehrt gemütliche Wohn- und Aufenthaltsräume zu schaffen. <br>In der Klinik Beverin wird eine Spezialabteilung zur stationären Therapie für Alkoholkranke eingerichtet. Das Behandlungskonzept ermöglicht Kuren von drei Wochen bis sechs Monaten. <br>Seit Mitte der 70er Jahre fordern die Chefärzte vermehrt eine gemeindenahe ambulante psychiatrische Behandlung, um möglichst viele Klinikeinweisungen zu verhindern. <br>Die Weiterentwicklung der Sozialpsychiatrie ermöglicht in Thusis die Eröffnung der ersten Wohngruppen für psychisch Behinderte. Damit wird den Patienten ein selbständiges Leben ausserhalb]b der Klinik unter begleitender Betreuung des Sozialarbeiters ermöglicht. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1975"
+      },
+      "text": {
+        "headline": "Einführung Bewegungstherapie",
+        "text": "<p>Die Aufgabe der Ergotherapeutin ist es, den Patienten auf einem Anforderungsniveau zu beschäftigen, das er überblickt und wenn möglich selbständig bewältigen kann. <br>Entsprechend den Schwierigkeiten und Fähigkeiten des Patienten wird ein Therapieprogramm aufgestellt, um die verloren gegangenen Fähigkeiten wiederaufzubauen. <br>Das Angebot von konkreten Aktivitäten in der Ergotherapie erlauben es dem Patienten, sensomotorische Aktivität mit vorstellendem Denken zu verbinden und auch Organisation und Planung wieder einzusetzen.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1976"
+      },
+      "text": {
+        "headline": "Personelles",
+        "text": "<p>Einführung der 44 Stunden-Woche</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1976"
+      },
+      "text": {
+        "headline": "Entwicklung des ambulanten Dienstes ",
+        "text": "<p>Im Rahmen der \"Planung des öffent1ichen Gesundheitswesens des Kantons Graubünden\" 1976,werden folgende Zielsetzungen der psychiatrischen Krankenversorgung formuliert: <ul><li>Durch vorbeugende Massnahmen psychische Erkrankungen zu vermeiden</li><li>Bei Auftreten von psychischen Erkrankungen den Patienten gemeindenah, d.h. im Rahmen seiner gewohnten Umgebung zu betreuen</li><li>Schaffung eines differenzierten Angebotes an ambulanten, halbstationären und stationären Institutionen und Einrichtungen.</li><li>Psychiatrische Kliniken sind für die stationäre Behandlung zuständig</li><li>Bei Chronifizierung des psychischen Leidens soll dem Erkrankten durch Rehabilitation ein menschenwürdiges Dasein ermöglicht werden</li></ul></p><p>Die ambulante Tätigkeit der psychiatrischen Kliniken ist soweit auszubauen, als die Aufgaben nicht durch sozialpsychiatrisch geschulte, freipraktizierende Psychiater wahrgenommen werden können.</p><ul><li>Beratungsstellen werden in den Regionen eingerichtet, die möglichst den Bezirksfürsorgestellen angegliedert werden oder mit diesen eine enge Zusammenarbeit pflegen</li><li>Konsiliarische Tätigkeit an den Regionalspitälern</li><li>Betreuung von Alters- und Pflegeheimen und ähnlichen Institutionen</li><li>Rehabilitation in halbstationären Institutionen: z.B. Wohngemeinschaft, Wohnheim</li></ul><h4>Realisierung </h4><p>Die ambulante Psychiatrie ist primär Aufgabe der freipraktizierenden Psychiater. In den Regionen ohne freipraktizierende Psychiater ist die ambulante Betreuung durch die Kliniken sicherzustellen. In der ersten Stufe kostet der Betrieb der ambulanten Dienste ca. Fr. 800'000.- . </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1977"
+      },
+      "end_date": {
+        "year": "1991"
+      },
+      "group": "Chefärzte",
+      "text": {
+        "headline": "Chefarzt Dr. B. Fontana",
+        "text": "<h4>Therapeutische Veränderungen:</h4><p>Die Aufhebung der Geschlechtertrennung in den Krankenstationen bewirkte eine natürlichere Atmosphäre im Klinikalltag.<br>Zudem machten es die rückläufigen Patientenzahlen möglich, vermehrt gemütliche Wohn- und Aufenthaltsräume zu schaffen.<br>Kreative- und künstlerische Therapieformen, wie Kunst-, Ergo- und Bewegungstherapie wurden weiter entwickelt.</p><p>Um vermehrt Klinikeinweisungen zu verhindern und die Nachbetreuung sicherzustellen, wurde 1979 der Ambulante Dienst der Klinik Waldhaus mit einem Oberarzt eröffnet. Neben der Tätigkeit im Ambulatorium in Chur konnten in den Regionalspitälern Davos, Samedan und Ilanz Sprechstunden angeboten werden.</p><h4>Bauliche Veränderungen:</h4><p>Die 14-jährige Chefarzt-Tätigkeit wurde durch die aufwendige Sanierungs- und Neubauplanung geprägt.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1977"
+      },
+      "text": {
+        "headline": "Sanierung und Neubau der Psychiatrischen Klinik Waldhaus",
+        "text": "<p>1977 wird eine Studienkommission für eine umfassende Sanierung der Klinik Waldhaus gebildet. Drei Jahre später wird das Raumprogramm durch die Bündner Regierung im Grundsatz genehmigt. Ein Projektwettbewerb für die bauliche und räumliche Sanierung der bestehenden Gebäude sowie für notwendige Neubauten der Psychiatrischen Klinik Waldhaus findet statt. <br>Neun Jahre nach der Gründung der Studienkommission bewilligt das Bündner Stimmvolk den Fr.35'000'000.- Kredit für die Neugestaltung der Klinik Waldhaus. <br>Das Neubaukonzept ist auf 150 Betten festgelegt. Dadurch sind strukturelle Veränderungen notwendig und eine Anzahl Patienten müssen in die Klinik Beverin verlegt werden.<br>1989 wird die klinikeigene Küche aufgehoben. Seither wird das Essen · im Frauenspital Fontana zubereitet, über die \"Kalte Linie\" in die Klinik Waldhaus gebracht und dort regeneriert.<br>Stellenschaffung je eines Psychologen in den Kliniken Beverin und Waldhaus </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1979"
+      },
+      "text": {
+        "headline": "Start ambulanter Dienst",
+        "text": "<p>1979 wird der ambulante Dienst der Klinik Waldhaus eröffnet. Dabei wird neben der Tätigkeit im Ambulatorium in Chur, in den Regionalspitälern Davos, Samedan und Ilanz eine Sprechstunde eingerichtet. Ein wichtiges Ziel ist, den Patienten bei Auftreten von psychischen Erkrankungen möglichst im Rahmen seiner gewohnten Umgebung zu betreuen. Ausserdem ist die Rehabilitation der psychisch erkrankten Menschen durch Schaffung eines differenzierten Angebotes an ambulanten, halbstationären und stationären Einrichtungen zu fördern. <br>1979 und 1980 reist der damalige Oberarzt regelmässig ins Misox nach Grono. Unter steigenden Patientenzahlen nimmt 1986 ein Assistenzarzt die Tätigkeit auf. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1980"
+      },
+      "text": {
+        "headline": "Weihnachtsbazar",
+        "text": "<p>Von 1949 bis 1979 ist die Klinik jeweils mit einem Stand am Churer Weihnachtsmarkt präsent.<br>Ab 1980 findet der Weihnachtsbazar der Klinik Waldhaus statt.<br>Mangels Nachfrage findet der Weihnachtsbazar im 2013 zum letzten Mal statt.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1984"
+      },
+      "text": {
+        "headline": "Personelles",
+        "text": "<p>Stellenschaffung eines Oberarztes in der Klinik Waldhaus</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1986"
+      },
+      "text": {
+        "headline": "Volksabstimmung",
+        "text": "<p>Das Bündner Volk genehmigt einen Kredit von 31 Mio. Franken zur umfassenden baulichen Sanierung der Klinik Waldhaus.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1988"
+      },
+      "text": {
+        "headline": "Arbeitszeit",
+        "text": "<p>Einführung der 42 Stunden-Woche</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "Psychiatrieversorgung des Kantons Graubünden ",
+        "text": "<p>Mit dem Regierungsratsbeschluss vom 14.5.1990 wird die Psychiatrieversorgung des Kantons Graubünden rationalisiert. Die Zentren Klinik Waldhaus und Klinik Beverin sind jeweils für eine umschriebene Region im Kantonsgebiet zuständig.</p><p>Die heutigen Aufgaben der psychiatrischen Therapie umfasst: <ol><li>Die Behandlung von psychisch kranken Menschen in akuten Krankheits-, Not- und Krisensituationen.</li><li>Wiedereingliederung von genesenen Patienten in den normalen Lebensalltag.</li><li>Die Pflege von Alterspatienten mit psychischen Störungen.</li></ol></p><p>Der Schwerpunkt der Behandlung liegt bei der individuellen Psychotherapie, wenn nötig durch Medikamente unterstützt und ergänzt durch Therapiemöglichkeiten wie Mal- und Ergotherapie, Bewegungstherapie, Gruppen und Freizeitaktivitäten. Immer wichtiger wird die Zusammenarbeit mit den Angehörigen. Die Eigenständigkeit, Eigenverantwortlichkeit und Eigeninitiative des Patienten sind oberstes Prinzip. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "Treibhäuser",
+        "text": "<p>Die Treibhäuser werden in Betrieb genommen.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "Eröffnung von zwei Wohngruppen",
+        "text": "<p>Zwei weitere Wohngruppen in Paspels und Chur eröffnet. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "Kinder- und Jugendpsychiatrischer Dienst",
+        "text": "<p>Dr. med Mario Wolf wird neuer Chefarzt des Kinder- und Jugendpsychiatrische Dienstes. Die Regionalstelle Mittelbünden wird in Thusis eröffnet. Im ehemaligen Waisenhaus Chur entsteht das Therapiehaus Fürstenwald. Begonnen wird mit der Tagesklinik, welche 1991 durch ein Internat ergänzt wird.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1991"
+      },
+      "end_date": {
+        "year": "2002"
+      },
+      "group": "Chefärzte",
+      "text": {
+        "headline": "Chefarzt Dr. med. M. Bünter",
+        "text": "<p>Der damalige Oberarzt Dr. med. Markus Bünter der Psychiatrischen Universitätsklinik Basel wird Chefarzt der Psychiatrischen Klinik Waldhaus in Chur.<br>In seiner Zeit als Chefarzt prägte Dr. med. Markus Bünter massgeblich die Weiterentwicklung der psychiatrischen Versorgung im Kanton Graubünden.</p><p>Hauptsächlich therapeutische Veränderungen:<ul><li>Die erste unabhängige Beratungsstelle der „Vereinigung der Angehörigen von Schizophrenie- und Psychisch-Kranken“ (VASK) bietet erstmals ihr Angebot in den Räumlichkeiten der Klinik Waldhaus an.</li><li>Die Klinik Waldhaus eröffnet die erste Allgemeinpsychiatrische Tagesklinik.</li><li>Einsetzung einer Psychiatriekommission</li><li>Einführung der elektronischen Krankengeschichte als erste psychiatrische Klinik in der Schweiz</li><li>Eröffnung der ersten Psychotherapiestation in der Klinik Waldhaus</li><li>Die Klinik Waldhaus eröffnet die erste Gerontopsychiatrische Tagesklinik (Memory-Klinik) im Kanton Graubünden.</li></p><p>Im Jahr 2002 und mit Beendigung seiner 11-jährigen Karriere als Chefarzt wurde die Klinik Waldhaus in die Psychiatrischen Dienste Graubünden integriert.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1991"
+      },
+      "text": {
+        "headline": "Regionalisierung",
+        "text": "<p>Die Regionalisierung wird auch auf den ambulanten Bereich ausgedehnt.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1992"
+      },
+      "text": {
+        "headline": "Ambulanter Dienst wird neu geregelt",
+        "text": "<p>Seit 1992 betreut der ambulante Dienst Waldhaus die Stadt Chur und Umgebung, nördliches Rheintal, Schilfig, Prättigau inkl. Sprechstunde im Spital Davos. Der ambulante Dienst der Klinik Beverin betreut die Region Mittelbünden, die Surselva und Engadin mit Südtälern mit zugehörigen Sprechstunden. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1992"
+      },
+      "text": {
+        "headline": "Umbau Klinik Beverin",
+        "text": "<p>1992 wurde mit der Planung für den Umbau der Klinik Beverin begonnen. Geplant ist die Entwicklung eines sozialpsychiatrischen Konzeptes für den Kanton Graubünden. </p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1992",
+        "month": "2"
+      },
+      "text": {
+        "headline": "Patientenhäuser",
+        "text": "<p>Bezug der neuen Patientenhäuser in der Klinik Waldhaus.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "1993"
+      },
+      "text": {
+        "headline": "Sanierung Klinik Waldhaus",
+        "text": "<p>Abschluss bauliche Sanierung Klinik Waldhaus für CHF 45 Mio.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1995"
+      },
+      "text": {
+        "headline": "Tagesklinik",
+        "text": "<p>Eröffnung erste Psychiatrische Tagesklinik in Graubünden</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1996"
+      },
+      "text": {
+        "headline": "Downtown",
+        "text": "<p>Eröffnung Drogenentzugs- und Übergangsstation Downtown, Klinik Beverin</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1998"
+      },
+      "text": {
+        "headline": "Internet",
+        "text": "<p>1. Internetaufritt der Kliniken und Heimzentren</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2000"
+      },
+      "text": {
+        "headline": "Eröffnung Ambulatorium Neumühle "
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2001"
+      },
+      "text": {
+        "headline": "ISO-Zertifizierung",
+        "text": "<p>Kliniken und Heimzentren Montalin und Rothenbrunnen werden zertifiziert</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2001"
+      },
+      "text": {
+        "headline": "Die Kliniken und Heime werden eine selbstständige öffentlich-rechtliche Anstalt",
+        "text": "<p>An der Volksabstimmung vom 10. Juni 2001  hat das Bündner Volk dem neuen Psychiatrie-Gesetzt mit knapp 80% Ja-Stimmen deutlich zugestimmt. Die ehemaligen Dienststellen bilden ab 2002 neu eine selbstständige öffentlich-rechtliche Anstalt.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2002"
+      },
+      "text": {
+        "headline": "PDGR starten in die Selbstständigkeit"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2003"
+      },
+      "text": {
+        "headline": "Neuer Standort für das Heimzentrum Arche Nova",
+        "text": "<p>Das Heimzentrum Arche Nova bezieht das Zentrumsgebäude in Landquart und erhält die ISO-Zertifizierung.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2004"
+      },
+      "text": {
+        "headline": "Abschluss bauliche Sanierung Klinik Beverin",
+        "text": "<p>Nach acht Jahren Bauzeit (1997 - 2004) wird die Sanierung mit einem grossen Fest abgeschlossen.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2005"
+      },
+      "text": {
+        "headline": "Bündner Souvenirprodukte",
+        "text": "<p>ARBES lancieren zwei Bündner Souvenirprodukte (\"Steinmannli\" und \"Socca da Spargn\")</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2005"
+      },
+      "text": {
+        "headline": "Bio-Betrieb",
+        "text": "<p>Gutsbetrieb Waldhaus wird als Bio-Betrieb zertifiziert</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2005"
+      },
+      "text": {
+        "headline": "Leistungsvereinbarung ",
+        "text": "<p>Abschluss Leistungsvereinbarung mit dem Fürstentum Lichtenstein</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2005"
+      },
+      "text": {
+        "headline": "Eröffnung Psychotherapeutische Tagesklinik (PT-TK), Klinik Waldhaus"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2006"
+      },
+      "text": {
+        "headline": "Tinnitusklinik",
+        "text": "<p>Erste Tinnitusklinik der Schweiz wird in der Klinik Waldhaus eröffnet</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2006"
+      },
+      "text": {
+        "headline": "Klinik Beverin eröffnet die Geronto-Psychotherapiestation 55+ (PTS 55+)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2006"
+      },
+      "text": {
+        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik St. Moritz (ATK St. Moritz)"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2007"
+      },
+      "text": {
+        "headline": "Leistungsvereinbarung",
+        "text": "<p>Abschluss Leistungsvereinbarung mit dem Kanton Glarus</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2007"
+      },
+      "text": {
+        "headline": "Neue Unternehmensorganisation",
+        "text": "<p>PDGR setzen prozessorientierte Unternehmensorganisation um</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2007"
+      },
+      "text": {
+        "headline": "Bündner Souvenirprodukte",
+        "text": "<p>ARBES lancieren Souvenirprodukt \"sezzin\"</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2008"
+      },
+      "text": {
+        "headline": "Bündner Souvenirprodukte",
+        "text": "<p>ARBES lancieren Souvenirprodukt \"flurina\"</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2008"
+      },
+      "text": {
+        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Ilanz (ATK Ilanz)"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2008"
+      },
+      "text": {
+        "headline": "Eröffnung Neubau ARBES Rothenbrunnen"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2008"
+      },
+      "text": {
+        "headline": "Eröffnung Forensisch-Psychiatrische Station Nova"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2008"
+      },
+      "text": {
+        "headline": "Einführung Phytotherapie in den PDGR"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2009"
+      },
+      "text": {
+        "headline": "PDGR passen das Qualitätsmanagement der prozessorientierten Organisation an"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2009"
+      },
+      "text": {
+        "headline": "Das Projekte \"Bündner Bündnis gegen Depression\" wird lanciert."
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2009"
+      },
+      "text": {
+        "headline": "Show auf der HIGA",
+        "text": "<p>Zusammen mit dem Kantonsspital Graubünden und der Spitex Chur präsentieren sich die PDGR an der HIGA mit der Sondershow \"Jobs mit Kopf und Herz\".</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2010"
+      },
+      "text": {
+        "headline": "Eröffnung Allgmeinpsychiatrische Tagesklinik Davos (ATK)"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2011"
+      },
+      "text": {
+        "headline": "Eröffnung Gerontopsychiatrische Tagesklinik Ilanz (GT-TK)"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2011"
+      },
+      "text": {
+        "headline": "Eröffnung Privatklinik MENTALVA Resort & Spa"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2012"
+      },
+      "text": {
+        "headline": "PDGR feiern 10-Jahr Jubiläum"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2012"
+      },
+      "text": {
+        "headline": "Kooperation",
+        "text": "<p>Spitex und die PDGR starten eine Kooperation in der Betreuung von psychisch kranken Menschen.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2013"
+      },
+      "text": {
+        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Scuol (ATK Scuol)"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2013"
+      },
+      "text": {
+        "headline": "\"Eingeliefert\" SRF in der Klinik Waldhaus",
+        "text": "<p>SRF 3 sendet eine Woche aus der Klinik Waldhaus</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2013"
+      },
+      "text": {
+        "headline": "\"Zmitzt Dinna\" in den PDGR",
+        "text": "<p>Tele Südostschweiz produziert den Film \"In der Psychiatrie\"</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2014"
+      },
+      "text": {
+        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Glarus (ATK-Glarus)"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2014"
+      },
+      "text": {
+        "headline": "Wiedereinführung Elektrokrampftherapie (EKT) in der Klinik Waldhaus."
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2014"
+      },
+      "text": {
+        "headline": "Start der Kampagne \"10 Schritte zur psychischen Gesundheit\"",
+        "text": "<p>MMM</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2015"
+      },
+      "text": {
+        "headline": "Neuer Auftritt für die ARBES",
+        "text": "<p>Die ARBES erhalten ein neues Corporate Design</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2015"
+      },
+      "text": {
+        "headline": "Show an der GEHLA",
+        "text": "<p>PDGR präsentieren sich mit der Sondershow \"Auch neben der Spur gibt es einen Weg\" an der GEHLA in Chur</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2015"
+      },
+      "text": {
+        "headline": "Erfolg für die PDGR",
+        "text": "<p>PDGR gewinnen in Berlin den Klinikaward für \"Beste Pressepräsenz\" und belegen den zweiten Platz in der Kategorie \"Bester Klinikfilm\"</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Eröffnung Allgemeinpsychiatricsche Tagesklinik Thusis (ATK Thusis)"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2016"
+      },
+      "text": {
+        "headline": "\"Wir wollen die Besten\"",
+        "text": "<p>PDGR erhalten einen neuen Auftritt als Ausbildungsplatz \"Wir wollen die Besten\"</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Das Heimzentrum Montalin feiert das 25-Jahr Jubiläum"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/leer.png",
+        "caption": "NIX"
+      },
+      "start_date": {
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Klinik Waldhaus feiert das 125 Jahr Jubiläum"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/70.jpg",
+        "caption": "Klinik Waldhaus im Jahr 2017"
+      },
+      "start_date": {
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Die Klinik heute",
+        "text": "Aktuell verfügt die Klinik über 107 Betten, welche auf verschiedene Stationen verteilt sind.<br>Zu den stationären Behandlungsschwerpunkten gehören die Akut- und Rehabilitationspsychiatrie, die Gerontopsychiatrie, die Psychotherapie sowie die schweizweit einzige Tinnitusklinik."
+      }
+    }
     ]
 }
