@@ -1,8 +1,7 @@
-{
+﻿{
     "title": {
         "media": {
-          "url": "assets/77_01.jpg",
-          "caption": "KOMPETENT UND GEMEINSAM FÜR LEBENSQUALITÄT"
+          "url": "assets/77_01.jpg"
         },
         "text": {
           "headline": "Psychiatrische Dienste Graubünden<br/>1877 - 2017",
@@ -12,8 +11,7 @@
     "events": [
       {
         "media": {
-          "url": "assets/1847_01.jpg",
-          "caption": "Klinik Pirminsberg"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1847"
@@ -25,8 +23,7 @@
       },
       {
         "media": {
-          "url": "assets/1850_01.jpg",
-          "caption": "Fixierung"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1850"
@@ -37,7 +34,10 @@
         }
       },
 	  {
-        "start_date": {
+        "media": {
+          "url": "assets/leer.png"
+		},
+		  "start_date": {
           "year": "1855"
         },
         "text": {
@@ -46,6 +46,9 @@
         }
       },
 	  {
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1874"
         },
@@ -56,8 +59,7 @@
       },
 	  {
         "media": {
-          "url": "assets/1877_01.jpg",
-          "caption": "Bündner Hilfsverein"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1877"
@@ -68,6 +70,9 @@
         }
       },		
 	  {
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1884"
         },
@@ -78,8 +83,7 @@
       },
 	  {
         "media": {
-          "url": "assets/1889_01.jpg", 
-          "caption": "Impressionen des Baus"			
+          "url": "assets/platzhalter.jpg" 		
         },
         "start_date": {
           "year": "1889"
@@ -91,18 +95,24 @@
       },
 	  {
         "media": {
-          "url": "assets/1890_01.jpg",
-          "caption": "Dr. Johann Josef Jörger"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1890"
         },
-        "text": {
+      	"end_date": {
+        "year": "1930"
+      },
+        "group": "Chefärzte",
+		  "text": {
           "headline": "1890 – 1930",
           "text": "<p>Direktor Dr. Johann Josef Jörger</p><p>1890 wird der damalige Assistenzarzt von St. Pirminsberg erster Chefarzt und Direktor der Anstalt Waldhaus. Ganze 40 Jahre leitet und prägt die originelle Persönlichkeit die Anstalt. Der 1860 in Vals geborene J.J. Jörger gilt als erster Bündner Psychiater. Als Wissenschaftler wird Dr. J.J. Jörger durch seine Studie über Erbforschung und seine Psychiatrischen Familiengeschichten über Bündner Vagantensippen bekannt. Als Schriftsteller verfasst er Arbeiten über Valser Sagen und Volkskunde und schreibt viele Erzählungen im urchigen Valserdialekt.</p><p>Neben der Anwendung des Deckelbades und der Zwangsjacke legte Dr. J.J. Jörger grossen Wert darauf die Patienten zu beschäftigen. Auf allen Frauenabteilungen wurde genäht, gestrickt und geflickt, andere Kranke halfen in der Küche und in der Lingerie mit. Die Männer arbeiteten in der Landwirtschaft und im Garten.</p><p><button onclick='modalOpen(1890)'>Details</button></p>"
         }
       },		
 	  {
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1892"
         },
@@ -113,8 +123,7 @@
       },
 		{
         "media": {
-          "url": "assets/leer.png",
-          "caption": "Legende"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1895"
@@ -125,6 +134,9 @@
         }
       },
 		{
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1896"
         },
@@ -135,8 +147,7 @@
       },		
 		{
         "media": {
-          "url": "assets/1900_01.jpg",
-          "caption": "Legende"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1900"
@@ -148,8 +159,7 @@
       },
 		{
         "media": {
-          "url": "assets/1901_01.jpg",
-          "caption": "Legende"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1901"
@@ -161,8 +171,7 @@
       },
 		{
         "media": {
-          "url": "assets/1901_02.jpg",
-          "caption": "Legende"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1901"
@@ -174,8 +183,7 @@
       },
 		{
         "media": {
-          "url": "assets/1905_01.jpg",
-          "caption": "Legende"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1905"
@@ -186,6 +194,9 @@
         }
       },
 		{
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1906"
         },
@@ -195,6 +206,9 @@
         }
       },
 		{
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1911"
         },
@@ -204,6 +218,9 @@
         }
       },
 		{
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1913"
         },
@@ -213,6 +230,9 @@
         }
       },
 		{
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1914"
         },
@@ -222,6 +242,9 @@
         }
       },		
 		{
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1915"
         },
@@ -231,7 +254,10 @@
         }
       },
 		{
-        "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+       "start_date": {
           "year": "1918"
         },
         "text": {
@@ -241,8 +267,7 @@
       },
 		{
         "media": {
-          "url": "assets/1919_01.jpg",
-          "caption": "Eröffnung Klinik Beverin"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1919"
@@ -253,6 +278,9 @@
         }
       },
 		{
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1920"
         },
@@ -262,7 +290,10 @@
         }
       },		
 		{
-        "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+       "start_date": {
           "year": "1925"
         },
         "text": {
@@ -271,6 +302,9 @@
         }
       },		
 		{
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1926"
         },
@@ -281,18 +315,24 @@
       },
 	  {
         "media": {
-          "url": "assets/1930_01.jpg",
-          "caption": "Legende"
+          "url": "assets/platzhalter.jpg"      
         },
         "start_date": {
           "year": "1930"
         },
-        "text": {
+      "end_date": {
+        "year": "1946"
+      },
+      "group": "Chefärzte",
+	  "text": {
           "headline": "Chefarzt Dr. J.B. Jörger 1930 – 1946",
           "text": "<p>Hauptsächlich therapeutische Veränderungen:</p><ul><li>Ausbau der Arbeitstherapie</li><li>Einführung der Insulinkur</li><li>Die künstlich Erzeugten Epileptischen Krampfanfälle mit Cardiazol bei Schizophrenen werden durch die Elektroschock-Behandlung ersetzt.</li></ul><p>Hauptsächlich bauliche Veränderungen:</p><ul><li>Wachsäle werden erstellt (für Bettenbehandlung wie Insulinkuren ect.)</li><li> Umbauten und Renovationen von Krankenstationen</li></ul>"
         }
       },
       {
+        "media": {
+          "url": "assets/leer.png"
+		},
 		 "start_date": {
           "year": "1933"
         },
@@ -303,8 +343,7 @@
       },		
 	  {
         "media": {
-          "url": "assets/1937_01.jpg",
-          "caption": "Legende"
+          "url": "assets/platzhalter.jpg"
         },
         "start_date": {
           "year": "1937"
@@ -315,6 +354,9 @@
         }
       },
 	  {
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1939"
         },
@@ -324,7 +366,10 @@
         }
       },
 	  {
-        "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+       "start_date": {
           "year": "1943"
         },
         "text": {
@@ -333,6 +378,9 @@
         }
       },		
 	  {
+        "media": {
+          "url": "assets/leer.png"
+		},
         "start_date": {
           "year": "1944"
         },
@@ -342,8 +390,7 @@
         }
       },{
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1946"
@@ -357,8 +404,10 @@
         "text": "<p>Wesentliche Veränderungen:</p><ul><li>Modernisierung der Beschäftigungstherapien</li><li>Medikamentöse Entwöhnungskuren für Alkohol-Kranke</li><li>Ausbildung des Pflegepersonals</li><li>Verbesserung der Zusammenarbeit mit Behörden und Spezialärzten</li><li>Öffentlichkeitsarbeit</li></ul><p>Die Siedlung \"Montalin\" wird fertiggestellt und von Mitarbeitenden bezogen.</p>"
       }
     },
-
     {
+     "media": {
+     "url": "assets/leer.png"
+	},
       "start_date": {
         "year": "1948"
       },
@@ -369,8 +418,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1950"
@@ -381,6 +429,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1951"
       },
@@ -391,8 +442,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1952"
@@ -403,13 +453,12 @@
       "group": "Chefärzte",
       "text": {
         "headline": "Chefarzt Dr. G. Pflugfelder",
-        "text": "<p>Die Umbenennung von der Heil- und Pflegeanstalt zur Psychiatrischen Klinik wurde durch neue therapeutisch Methoden und bauliche Veränderungen sichtbar.</p> <p><b>Behandlung mit Neuroleptika:</b></p> <p>Durch die Anwendung von neu entwickelten Neuroleptika (Largactil, Serpasil) konnten 1/3 der „Chronisch Kranken“ entlassen werden. Insulinkuren und Elektrobehandlungen wurden seltener durchgeführt.Durch die Einführung des Antidepressivum Tofranil konnten nun auch affektive Psychosen gezielt behandelt werden.</p> <p><b>Bauliche Veränderungen:</b></p> <p>Schlafsäle wurden in 3 – 4 Betten-Zimmer umgebaut (Abnahme der Bettenbehandlung) der Estrich wurde für die Ergotherapie ausgebaut. Bau des Schwesternhauses.</p>"
+        "text": "<p>Die Umbenennung von der Heil- und Pflegeanstalt zur Psychiatrischen Klinik wurde durch neue therapeutisch Methoden und bauliche Veränderungen sichtbar.</p> <p><b>Behandlung mit Neuroleptika:</b></p> <p>Durch die Anwendung von neu entwickelten Neuroleptika (Largactil, Serpasil) konnten 1/3 der «Chronisch Kranken» entlassen werden. Insulinkuren und Elektrobehandlungen wurden seltener durchgeführt.Durch die Einführung des Antidepressivum Tofranil konnten nun auch affektive Psychosen gezielt behandelt werden.</p> <p><b>Bauliche Veränderungen:</b></p> <p>Schlafsäle wurden in 3 – 4 Betten-Zimmer umgebaut (Abnahme der Bettenbehandlung) der Estrich wurde für die Ergotherapie ausgebaut. Bau des Schwesternhauses.</p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1952"
@@ -421,21 +470,19 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1952"
       },
       "text": {
         "headline": "Apomorphin-Kur",
-        "text": "<p>Wie , in den meisten grossen Kliniken der Schweiz werden Entwöhnungskuren bei Alkoholkranken nach der klassischen englischen Methode durchgeführt. Die Kranken liegen im Bett und erhalten während 6 - 8 Tagen nachts dreistündlich, tagsüber alle zwei Stunden eine bestimmte Menge alkoholischer Getränke. Diese werden stets mit einer Injektion Apomorphin, einem starken Brechmittel, kombiniert. Es kommt auf diese Weise während einer Woche zu einer ausgesprochenen Koppelung von Alkoholgenuss mit Übelkeit und Brechen. Häufig kann beobachtet werden, dass vom vierten oder fünften Tag an die Kranken schon beim Anblic􀁺 oder Riechen alkoholischer Getränke Brechreiz verspüren. Auf diese Weise ist es möglich, dem Trunksüchtigen den Alkoholgenuss zu vergällen. </p>"
+        "text": "<p>Wie , in den meisten grossen Kliniken der Schweiz werden Entwöhnungskuren bei Alkoholkranken nach der klassischen englischen Methode durchgeführt. Die Kranken liegen im Bett und erhalten während 6 - 8 Tagen nachts dreistündlich, tagsüber alle zwei Stunden eine bestimmte Menge alkoholischer Getränke. Diese werden stets mit einer Injektion Apomorphin, einem starken Brechmittel, kombiniert. Es kommt auf diese Weise während einer Woche zu einer ausgesprochenen Koppelung von Alkoholgenuss mit Übelkeit und Brechen. Häufig kann beobachtet werden, dass vom vierten oder fünften Tag an die Kranken schon beim Anblicô€º oder Riechen alkoholischer Getränke Brechreiz verspüren. Auf diese Weise ist es möglich, dem Trunksüchtigen den Alkoholgenuss zu vergällen. </p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1952"
@@ -447,8 +494,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1953"
@@ -460,8 +506,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1953"
@@ -473,8 +518,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1953"
@@ -486,8 +530,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1954"
@@ -498,6 +541,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1954"
       },
@@ -508,18 +554,20 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1954"
       },
       "text": {
         "headline": "Serpasilkuren",
-        "text": "<p>1955 veröffentlicht G. Pfluge]der den Artikel \"Serpasilkuren in der Psychiatrie\", worin er bereits von 100 durchgeführten Kuren berichtet. Es wird folgendes Resümee gezogen: \"Bei einer grossen Zahl von Serpasilpatienten wurden früher · Insulinkuren, speziell aber auch Dämmerkuren und Elektrobehandlungen mit wechselndem Erfolg durchgeführt. Es sei erwähnt, dass wir dank den Scrpasilkuren auf den 'unruhigen' Pflegestationen jetzt viel weniger Elektrobehandlungen und Dämmerkuren durchführen müssen.\"<br>In den 50er Jahren wird die Klinik ausgebaut und modernisiert. Die Gitter an an den Fenster werden durch Sicherheitsglas ersetzt. </p>"
+        "text": "<p>1955 veröffentlicht G. Pfluge]der den Artikel \"Serpasilkuren in der Psychiatrie\", worin er bereits von 100 durchgeführten Kuren berichtet. Es wird folgendes Resümee gezogen: \"Bei einer grossen Zahl von Serpasilpatienten wurden früher Â· Insulinkuren, speziell aber auch Dämmerkuren und Elektrobehandlungen mit wechselndem Erfolg durchgeführt. Es sei erwähnt, dass wir dank den Scrpasilkuren auf den 'unruhigen' Pflegestationen jetzt viel weniger Elektrobehandlungen und Dämmerkuren durchführen müssen.\"<br>In den 50er Jahren wird die Klinik ausgebaut und modernisiert. Die Gitter an an den Fenster werden durch Sicherheitsglas ersetzt. </p>"
       }
     },
     {
+     "media": {
+     "url": "assets/leer.png"
+     },
       "start_date": {
         "year": "1956"
       },
@@ -529,18 +577,20 @@
       }
     },
     {
-      "start_date": {
+      "media": {
+     "url": "assets/leer.png"
+     },
+		"start_date": {
         "year": "1956"
       },
       "text": {
         "headline": "Vermehrter Einsatz von Psychotherapie",
-        "text": "<p>Die Methoden der Psychotherapie bestehen zumeist darin, unbewusste Konflikte aufzudecken, wiederzubeleben und durchzuarbeiten oder mit Hilfe des Gespräches Konfliktlösungen herbeizuführen. <br>Durch ·die Behandlungen mit Largactil und Serpasil hat die Psychotherapie im klinischen Alltag mehr Gewicht erhalten, weil die Patienten dem Gespräch besser folgen können. </p>"
+        "text": "<p>Die Methoden der Psychotherapie bestehen zumeist darin, unbewusste Konflikte aufzudecken, wiederzubeleben und durchzuarbeiten oder mit Hilfe des Gespräches Konfliktlösungen herbeizuführen. <br>Durch Â·die Behandlungen mit Largactil und Serpasil hat die Psychotherapie im klinischen Alltag mehr Gewicht erhalten, weil die Patienten dem Gespräch besser folgen können. </p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1957"
@@ -551,15 +601,21 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1957"
       },
       "text": {
         "headline": "Lehrplan für Psychotherapiepflegeberufe entsteht",
-        "text": "<p>Der Berner Psychiater Walter Morgenthaler engagierte sich darum stark in der Aus-bildungsfrage für den Psychiatriepflegeberuf. Er entwarf einen Lehrplan, formulierte ein Prüfungsreglement und schrieb 1930 das Lehrbuch „Die Pflege der Gemüts- und Geisteskranken“. Doch erst 1957 wurde in Basel eine Schule für psychiatrische Krankenpflege eröffnet.</p>"
+        "text": "<p>Der Berner Psychiater Walter Morgenthaler engagierte sich darum stark in der Aus-bildungsfrage für den Psychiatriepflegeberuf. Er entwarf einen Lehrplan, formulierte ein Prüfungsreglement und schrieb 1930 das Lehrbuch «Die Pflege der Gemüts- und Geisteskranken». Doch erst 1957 wurde in Basel eine Schule für psychiatrische Krankenpflege eröffnet.</p>"
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1957"
       },
@@ -569,7 +625,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1958"
       },
       "text": {
@@ -579,13 +638,10 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
-        "year": "1959",
-        "month": "8",
-        "day": "20"
+        "year": "1959"
       },
       "text": {
         "headline": "Brand in der Klinik Waldhaus",
@@ -593,6 +649,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1960"
       },
@@ -602,16 +661,22 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1960"
       },
       "text": {
         "headline": "Abriss von Mauern und Zäunen",
-        "text": "<p>Ab 1960 werden die Mauern und Eisenzäune, welche die Kliniken umgeben abgerissen. Abteilungen werden offen geführt. Allmählich verschwinden die Gitter vor den F ens­tem und werden durch Sicherheitsglas ersetzt. Am Haupt­gebäude der Klinik Waldhaus und an zwei Pavillons werden die Fassaden renoviert und die sanitären Einrichtungen erneuert, so dass es in den Schlafsälen Lavabos mit kaltem und warmen Wasser gibt. Grosse Schlafsäle werden in Zweier- und Dreierzimmer umgestaltet. </p>"
+        "text": "<p>Ab 1960 werden die Mauern und Eisenzäune, welche die Kliniken umgeben abgerissen. Abteilungen werden offen geführt. Allmählich verschwinden die Gitter vor den Fenstern und werden durch Sicherheitsglas ersetzt. Am Hauptgebäude der Klinik Waldhaus und an zwei Pavillons werden die Fassaden renoviert und die sanitären Einrichtungen erneuert, so dass es in den Schlafsälen Lavabos mit kaltem und warmen Wasser gibt. Grosse Schlafsäle werden in Zweier- und Dreierzimmer umgestaltet. </p>"
       }
     },
     {
-      "start_date": {
+     "media": {
+     "url": "assets/leer.png"
+     },
+		"start_date": {
         "year": "1960"
       },
       "text": {
@@ -620,7 +685,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1960"
       },
       "text": {
@@ -629,6 +697,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1964"
       },
@@ -638,6 +709,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1965"
       },
@@ -647,7 +721,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1965"
       },
       "text": {
@@ -656,7 +733,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1967"
       },
       "text": {
@@ -665,15 +745,21 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1968"
       },
       "text": {
         "headline": "Ausbildung der Pflegeberufe wird einheitlich",
-        "text": "<p>Vereinbarung zwischen dem Schweizerischen Roten Kreuz und der Schweizerischen Zentralstelle für praktische Psychiatrie und Herausgabe:<ul><li>Des Reglements über die Anerkennung von Schulen ftir Psychiatrische Krankenpflege durch das Schweiz­erische Rote Kreuz</li><li>Der Richtlinien ftir Schulen der psychiatrischen Krankenpflege</li></ul></p>"
+        "text": "<p>Vereinbarung zwischen dem Schweizerischen Roten Kreuz und der Schweizerischen Zentralstelle für praktische Psychiatrie und Herausgabe:<ul><li>Des Reglements über die Anerkennung von Schulen ftir Psychiatrische Krankenpflege durch das Schweizerische Rote Kreuz</li><li>Der Richtlinien ftir Schulen der psychiatrischen Krankenpflege</li></ul></p>"
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1968"
       },
@@ -683,7 +769,10 @@
       }
     },
     {
-      "start_date": {
+          "media": {
+          "url": "assets/leer.png"
+		},
+    "start_date": {
         "year": "1969"
       },
       "text": {
@@ -693,8 +782,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1970"
@@ -706,8 +794,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1970"
@@ -719,8 +806,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1972"
@@ -732,8 +818,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1972"
@@ -745,21 +830,19 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1974"
       },
       "text": {
         "headline": "Neubau Rothenbrunnen",
-        "text": "<p>1974 wird die Aussenstation Rothenbrunnen neu gebaut. Das Wohnheim wird später durch die Beschäftigungs­werkstätten ergänzt. Somit können jüngere Patienten von der Klinik ins Wohnheim verlegt werden, die einen geschützten Wohn- und Arbeitsplatz infolge der psychischen Behinderung benötigen. </p>"
+        "text": "<p>1974 wird die Aussenstation Rothenbrunnen neu gebaut. Das Wohnheim wird später durch die Beschäftigungswerkstätten ergänzt. Somit können jüngere Patienten von der Klinik ins Wohnheim verlegt werden, die einen geschützten Wohn- und Arbeitsplatz infolge der psychischen Behinderung benötigen. </p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1974"
@@ -770,6 +853,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1975"
       },
@@ -779,7 +865,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1975"
       },
       "text": {
@@ -788,7 +877,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1976"
       },
       "text": {
@@ -797,7 +889,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1976"
       },
       "text": {
@@ -807,8 +902,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1977"
@@ -824,21 +918,19 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1977"
       },
       "text": {
         "headline": "Sanierung und Neubau der Psychiatrischen Klinik Waldhaus",
-        "text": "<p>1977 wird eine Studienkommission für eine umfassende Sanierung der Klinik Waldhaus gebildet. Drei Jahre später wird das Raumprogramm durch die Bündner Regierung im Grundsatz genehmigt. Ein Projektwettbewerb für die bauliche und räumliche Sanierung der bestehenden Gebäude sowie für notwendige Neubauten der Psychiatrischen Klinik Waldhaus findet statt. <br>Neun Jahre nach der Gründung der Studienkommission bewilligt das Bündner Stimmvolk den Fr.35'000'000.- Kredit für die Neugestaltung der Klinik Waldhaus. <br>Das Neubaukonzept ist auf 150 Betten festgelegt. Dadurch sind strukturelle Veränderungen notwendig und eine Anzahl Patienten müssen in die Klinik Beverin verlegt werden.<br>1989 wird die klinikeigene Küche aufgehoben. Seither wird das Essen · im Frauenspital Fontana zubereitet, über die \"Kalte Linie\" in die Klinik Waldhaus gebracht und dort regeneriert.<br>Stellenschaffung je eines Psychologen in den Kliniken Beverin und Waldhaus </p>"
+        "text": "<p>1977 wird eine Studienkommission für eine umfassende Sanierung der Klinik Waldhaus gebildet. Drei Jahre später wird das Raumprogramm durch die Bündner Regierung im Grundsatz genehmigt. Ein Projektwettbewerb für die bauliche und räumliche Sanierung der bestehenden Gebäude sowie für notwendige Neubauten der Psychiatrischen Klinik Waldhaus findet statt. <br>Neun Jahre nach der Gründung der Studienkommission bewilligt das Bündner Stimmvolk den Fr.35'000'000.- Kredit für die Neugestaltung der Klinik Waldhaus. <br>Das Neubaukonzept ist auf 150 Betten festgelegt. Dadurch sind strukturelle Veränderungen notwendig und eine Anzahl Patienten müssen in die Klinik Beverin verlegt werden.<br>1989 wird die klinikeigene Küche aufgehoben. Seither wird das Essen im Frauenspital Fontana zubereitet, über die \"Kalte Linie\" in die Klinik Waldhaus gebracht und dort regeneriert.<br>Stellenschaffung je eines Psychologen in den Kliniken Beverin und Waldhaus </p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1979"
@@ -850,8 +942,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1980"
@@ -862,6 +953,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1984"
       },
@@ -872,8 +966,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "1986"
@@ -885,8 +978,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "1988"
@@ -898,8 +990,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1990"
@@ -911,8 +1002,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "1990"
@@ -923,7 +1013,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1990"
       },
       "text": {
@@ -932,7 +1025,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1990"
       },
       "text": {
@@ -942,8 +1038,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1991"
@@ -954,11 +1049,14 @@
       "group": "Chefärzte",
       "text": {
         "headline": "Chefarzt Dr. med. M. Bünter",
-        "text": "<p>Der damalige Oberarzt Dr. med. Markus Bünter der Psychiatrischen Universitätsklinik Basel wird Chefarzt der Psychiatrischen Klinik Waldhaus in Chur.<br>In seiner Zeit als Chefarzt prägte Dr. med. Markus Bünter massgeblich die Weiterentwicklung der psychiatrischen Versorgung im Kanton Graubünden.</p><p>Hauptsächlich therapeutische Veränderungen:<ul><li>Die erste unabhängige Beratungsstelle der „Vereinigung der Angehörigen von Schizophrenie- und Psychisch-Kranken“ (VASK) bietet erstmals ihr Angebot in den Räumlichkeiten der Klinik Waldhaus an.</li><li>Die Klinik Waldhaus eröffnet die erste Allgemeinpsychiatrische Tagesklinik.</li><li>Einsetzung einer Psychiatriekommission</li><li>Einführung der elektronischen Krankengeschichte als erste psychiatrische Klinik in der Schweiz</li><li>Eröffnung der ersten Psychotherapiestation in der Klinik Waldhaus</li><li>Die Klinik Waldhaus eröffnet die erste Gerontopsychiatrische Tagesklinik (Memory-Klinik) im Kanton Graubünden.</li></p><p>Im Jahr 2002 und mit Beendigung seiner 11-jährigen Karriere als Chefarzt wurde die Klinik Waldhaus in die Psychiatrischen Dienste Graubünden integriert.</p>"
+        "text": "<p>Der damalige Oberarzt Dr. med. Markus Bünter der Psychiatrischen Universitätsklinik Basel wird Chefarzt der Psychiatrischen Klinik Waldhaus in Chur.<br>In seiner Zeit als Chefarzt prägte Dr. med. Markus Bünter massgeblich die Weiterentwicklung der psychiatrischen Versorgung im Kanton Graubünden.</p><p>Hauptsächlich therapeutische Veränderungen:<ul><li>Die erste unabhängige Beratungsstelle der «Vereinigung der Angehörigen von Schizophrenie- und Psychisch-Kranken» (VASK) bietet erstmals ihr Angebot in den Räumlichkeiten der Klinik Waldhaus an.</li><li>Die Klinik Waldhaus eröffnet die erste Allgemeinpsychiatrische Tagesklinik.</li><li>Einsetzung einer Psychiatriekommission</li><li>Einführung der elektronischen Krankengeschichte als erste psychiatrische Klinik in der Schweiz</li><li>Eröffnung der ersten Psychotherapiestation in der Klinik Waldhaus</li><li>Die Klinik Waldhaus eröffnet die erste Gerontopsychiatrische Tagesklinik (Memory-Klinik) im Kanton Graubünden.</li></p><p>Im Jahr 2002 und mit Beendigung seiner 11-jährigen Karriere als Chefarzt wurde die Klinik Waldhaus in die Psychiatrischen Dienste Graubünden integriert.</p>"
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1991"
       },
       "text": {
@@ -967,6 +1065,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1992"
       },
@@ -976,7 +1077,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1992"
       },
       "text": {
@@ -985,19 +1089,20 @@
       }
     },
     {
-      "start_date": {
-        "year": "1992",
-        "month": "2"
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
+        "year": "1992"
       },
       "text": {
         "headline": "Patientenhäuser",
-        "text": "<p>Bezug der neuen Patientenhäuser in der Klinik Waldhaus.</p>"
+        "text": "<p>Bezug der neuen Patientenhäuser im Februar in der Klinik Waldhaus.</p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "1993"
@@ -1008,7 +1113,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1995"
       },
       "text": {
@@ -1017,6 +1125,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "1996"
       },
@@ -1026,7 +1137,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "1998"
       },
       "text": {
@@ -1036,20 +1150,19 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2000"
       },
       "text": {
-        "headline": "Eröffnung Ambulatorium Neumühle "
+        "headline": "Eröffnung Ambulatorium Neumühle",
+		  "text": "<p>Opiatgestütze Behandlung</p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "2001"
@@ -1060,6 +1173,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "2001"
       },
@@ -1070,20 +1186,19 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2002"
       },
       "text": {
-        "headline": "PDGR starten in die Selbstständigkeit"
+        "headline": "PDGR starten in die Selbstständigkeit",
+		   "text": "<p>PDGR starten in die Selbstständigkeit</p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2003"
@@ -1095,8 +1210,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "2004"
@@ -1107,6 +1221,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "2005"
       },
@@ -1116,6 +1233,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "2005"
       },
@@ -1125,7 +1245,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "2005"
       },
       "text": {
@@ -1134,17 +1257,20 @@
       }
     },
     {
-      "start_date": {
+           "media": {
+          "url": "assets/leer.png"
+		},
+   "start_date": {
         "year": "2005"
       },
       "text": {
-        "headline": "Eröffnung Psychotherapeutische Tagesklinik (PT-TK), Klinik Waldhaus"
+        "headline": "Eröffnung Psychotherapeutische Tagesklinik (PT-TK), Klinik Waldhaus",
+		"text": "<p></p>"  
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2006"
@@ -1155,25 +1281,32 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "2006"
       },
       "text": {
-        "headline": "Klinik Beverin eröffnet die Geronto-Psychotherapiestation 55+ (PTS 55+)"
+        "headline": "Klinik Beverin eröffnet die Geronto-Psychotherapiestation 55+ (PTS 55+)",
+		"text": "<p></p>"
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "2006"
       },
       "text": {
-        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik St. Moritz (ATK St. Moritz)"
+        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik St. Moritz (ATK St. Moritz)",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2007"
@@ -1185,8 +1318,7 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2007"
@@ -1197,7 +1329,10 @@
       }
     },
     {
-      "start_date": {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
         "year": "2007"
       },
       "text": {
@@ -1206,6 +1341,9 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "2008"
       },
@@ -1216,76 +1354,81 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2008"
       },
       "text": {
-        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Ilanz (ATK Ilanz)"
+        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Ilanz (ATK Ilanz)",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2008"
       },
       "text": {
-        "headline": "Eröffnung Neubau ARBES Rothenbrunnen"
+        "headline": "Eröffnung Neubau ARBES Rothenbrunnen",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
+        
       },
       "start_date": {
         "year": "2008"
       },
       "text": {
-        "headline": "Eröffnung Forensisch-Psychiatrische Station Nova"
+        "headline": "Eröffnung Forensisch-Psychiatrische Station Nova",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
+        
       },
       "start_date": {
         "year": "2008"
       },
       "text": {
-        "headline": "Einführung Phytotherapie in den PDGR"
+        "headline": "Einführung Phytotherapie in den PDGR",
+		"text": "<p></p>"
       }
     },
     {
+         "media": {
+          "url": "assets/leer.png"
+		},
+     "start_date": {
+        "year": "2009"
+      },
+      "text": {
+        "headline": "PDGR passen das Qualitätsmanagement der prozessorientierten Organisation an",
+		"text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "assets/platzhalter.jpg"
+      },
       "start_date": {
         "year": "2009"
       },
       "text": {
-        "headline": "PDGR passen das Qualitätsmanagement der prozessorientierten Organisation an"
+        "headline": "Das Projekte «Bündner Bündnis gegen Depression» wird lanciert.",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
-      },
-      "start_date": {
-        "year": "2009"
-      },
-      "text": {
-        "headline": "Das Projekte \"Bündner Bündnis gegen Depression\" wird lanciert."
-      }
-    },
-    {
-      "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "2009"
@@ -1297,56 +1440,55 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2010"
       },
       "text": {
-        "headline": "Eröffnung Allgmeinpsychiatrische Tagesklinik Davos (ATK)"
+        "headline": "Eröffnung Allgmeinpsychiatrische Tagesklinik Davos (ATK)",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2011"
       },
       "text": {
-        "headline": "Eröffnung Gerontopsychiatrische Tagesklinik Ilanz (GT-TK)"
+        "headline": "Eröffnung Gerontopsychiatrische Tagesklinik Ilanz (GT-TK)",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2011"
       },
       "text": {
-        "headline": "Eröffnung Privatklinik MENTALVA Resort & Spa"
+        "headline": "Eröffnung Privatklinik MENTALVA Resort & Spa",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "2012"
       },
       "text": {
-        "headline": "PDGR feiern 10-Jahr Jubiläum"
+        "headline": "PDGR feiern 10-Jahr Jubiläum",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "2012"
@@ -1358,83 +1500,79 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "2013"
       },
       "text": {
-        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Scuol (ATK Scuol)"
+        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Scuol (ATK Scuol)",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2013"
       },
       "text": {
-        "headline": "\"Eingeliefert\" SRF in der Klinik Waldhaus",
+        "headline": "«Eingeliefert» SRF in der Klinik Waldhaus",
         "text": "<p>SRF 3 sendet eine Woche aus der Klinik Waldhaus</p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2013"
       },
       "text": {
-        "headline": "\"Zmitzt Dinna\" in den PDGR",
+        "headline": "«Zmitzt Dinna» in den PDGR",
         "text": "<p>Tele Südostschweiz produziert den Film \"In der Psychiatrie\"</p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2014"
       },
       "text": {
-        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Glarus (ATK-Glarus)"
+        "headline": "Eröffnung Allgemeinpsychiatrische Tagesklinik Glarus (ATK-Glarus)",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2014"
       },
       "text": {
-        "headline": "Wiedereinführung Elektrokrampftherapie (EKT) in der Klinik Waldhaus."
+        "headline": "Wiedereinführung Elektrokrampftherapie (EKT) in der Klinik Waldhaus.",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2014"
       },
       "text": {
-        "headline": "Start der Kampagne \"10 Schritte zur psychischen Gesundheit\"",
-        "text": "<p>MMM</p>"
+        "headline": "Start der Kampagne «10 Schritte zur psychischen Gesundheit»",
+        "text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"  
       },
       "start_date": {
         "year": "2015"
@@ -1446,21 +1584,19 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2015"
       },
       "text": {
         "headline": "Show an der GEHLA",
-        "text": "<p>PDGR präsentieren sich mit der Sondershow \"Auch neben der Spur gibt es einen Weg\" an der GEHLA in Chur</p>"
+        "text": "<p>PDGR präsentieren sich mit der Sondershow «Auch neben der Spur gibt es einen Weg» an der GEHLA in Chur</p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"  
       },
       "start_date": {
         "year": "2015"
@@ -1472,20 +1608,19 @@
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"   
       },
       "start_date": {
         "year": "2016"
       },
       "text": {
-        "headline": "Eröffnung Allgemeinpsychiatricsche Tagesklinik Thusis (ATK Thusis)"
+        "headline": "Eröffnung Allgemeinpsychiatricsche Tagesklinik Thusis (ATK Thusis)",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg" 
       },
       "start_date": {
         "year": "2016"
@@ -1496,29 +1631,32 @@
       }
     },
     {
+        "media": {
+          "url": "assets/leer.png"
+		},
       "start_date": {
         "year": "2017"
       },
       "text": {
-        "headline": "Das Heimzentrum Montalin feiert das 25-Jahr Jubiläum"
+        "headline": "Das Heimzentrum Montalin feiert das 25-Jahr Jubiläum",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/leer.png",
-        "caption": "NIX"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2017"
       },
       "text": {
-        "headline": "Klinik Waldhaus feiert das 125 Jahr Jubiläum"
+        "headline": "Klinik Waldhaus feiert das 125 Jahr Jubiläum",
+		"text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "assets/70.jpg",
-        "caption": "Klinik Waldhaus im Jahr 2017"
+        "url": "assets/platzhalter.jpg"
       },
       "start_date": {
         "year": "2017"
