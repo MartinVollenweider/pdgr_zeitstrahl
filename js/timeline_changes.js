@@ -9,7 +9,7 @@
       // optionally, a third argument with configuration options can be passed.
 		var options = {
             start_at_end: false,
-            timenav_height: 80,
+            timenav_height: 400,
 			//optimal_tick_width: 195
         };
 
@@ -25,7 +25,7 @@ $.ajax({
 	success: function (daten) {
 		jahre = daten;
 	}
-});	
+});
 
 
 

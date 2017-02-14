@@ -39,6 +39,14 @@
     cursor: pointer;
 }
 
+/* Logo */
+#logo {
+  position: absolute;
+  z-index: 1000;
+  right: 10px;
+  top: 10px;
+}
+
 
 
 
@@ -48,13 +56,12 @@
 
 
 #timeline-embed {
+	width: 100%;
 	background-color: #f6f6f6;
+  margin-top: 95px;
+  height: 985px;
 }
 
-#timeline-embed {
-	width: 100%;
-	height: 600px;
-}
 /* minor ticks hidden */
 .tl-timeaxis-minor {
 	display: none;
@@ -68,6 +75,166 @@
 	display: none;
 }
 /* kleine Werbung links unten */
-.tl-timenav .tl-attribution {
+.tl-attribution {
 	display: none;
+}
+
+/* Hintergrund Zeitstrahl */
+.tl-timegroup	 {
+  background-color: rgb(189, 208, 171);
+}
+
+/* Tick-Linie */
+.tl-timeaxis .tl-timeaxis-content-container .tl-timeaxis-major .tl-timeaxis-tick:before{
+  border-color: rgb(139, 172, 108);
+}
+/* Tick-Jahreszahl */
+.tl-timeaxis-tick-text{
+  color: rgb(139, 172, 108);
+}
+
+
+
+
+
+
+
+
+
+
+/* inaktive Zeitfahne ************************************/
+/* inaktiv Hintergrundfarbe */
+.tl-timemarker .tl-timemarker-content-container-small {
+  background-color: rgb(139, 172, 108);
+}
+/* inaktiv Schriftfarbe */
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline {
+  color: #ffffff;
+}
+/* inaktiv Rahmen */
+.tl-timemarker .tl-timemarker-content-container{
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: none;
+}
+/* inaktiv Linie(n) bis Jahreszahl */
+.tl-timemarker .tl-timemarker-line-left,
+.tl-timemarker .tl-timemarker-line-right {
+  border-left-color: #ffffff;
+  box-shadow: none;
+}
+
+/* hover inaktiv  */
+.tl-timemarker:hover .tl-timemarker-content-container,
+.tl-timemarker:hover .tl-timemarker-content-container-small{
+  background-color:rgb(100, 161, 46);
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: none;
+}
+/* hover inaktiv Linie(n) bis Jahreszahl */
+.tl-timemarker:hover .tl-timemarker-timespan .tl-timemarker-line-left,
+.tl-timemarker:hover .tl-timemarker-timespan .tl-timemarker-line-right {
+  border-color:#ffffff;
+}
+
+/* aktive Zeitfahne */
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container{
+  background-color: rgb(255, 255, 255);
+}
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline {
+  color: rgb(0,82,140);
+}
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container{
+  border: 1px solid rgb(0,82,140);
+  box-shadow: none;
+}
+.tl-timemarker.tl-timemarker-active .tl-timemarker-line-left,
+.tl-timemarker.tl-timemarker-active .tl-timemarker-line-right {
+  border-left-color: rgb(0,82,140);
+  box-shadow: none;
+}
+
+/* hover aktive Zeitfahne */
+.tl-timemarker.tl-timemarker-active:hover .tl-timemarker-content-container-small {
+  background-color: rgb(255, 255, 255);
+}
+.tl-timemarker.tl-timemarker-active:hover .tl-timemarker-timespan .tl-timemarker-line-left,
+.tl-timemarker.tl-timemarker-active:hover .tl-timemarker-timespan .tl-timemarker-line-right {
+  border-color:rgb(0,82,140);
+}
+
+
+.tl-timemarker .tl-timemarker-line-left:after,
+.tl-timemarker .tl-timemarker-line-right:after{
+  background-color: rgb(139, 172, 108);
+}
+
+.tl-timemarker:hover .tl-timemarker-timespan .tl-timemarker-line-left:after,
+.tl-timemarker:hover .tl-timemarker-timespan .tl-timemarker-line-right:after{
+  background-color: rgb(100, 161, 46);
+}
+
+.tl-timemarker.tl-timemarker-active .tl-timemarker-line-left:after,
+.tl-timemarker.tl-timemarker-active .tl-timemarker-line-right:after,
+.tl-timemarker.tl-timemarker-active:hover .tl-timemarker-line-left:after,
+.tl-timemarker.tl-timemarker-active:hover .tl-timemarker-line-right:after{
+  background-color: rgb(0,82,140);
+}
+
+.tl-timemarker.tl-timemarker-with-end .tl-timemarker-timespan:after {
+  background-color: rgba(215,226,207,.5);
+}
+
+.tl-timemarker.tl-timemarker-with-end:hover .tl-timemarker-timespan:after,
+.tl-timemarker.tl-timemarker-with-end.tl-timemarker-active .tl-timemarker-timespan:after {
+  background-color: rgba(215,226,207,.8);
+}
+
+.tl-timemarker.tl-timemarker-with-end.tl-timemarker-active:hover .tl-timemarker-timespan:after {
+  background-color: rgba(100, 161, 46,.5);
+}
+
+/* Group Chefärzte */
+.tl-timegroup.tl-timegroup-alternate{
+  background-color: rgb(215,226,207);
+  color: rgb(139, 172, 108);
+}
+.tl-timegroup .tl-timegroup-message{
+  color: rgb(139, 172, 108);
+  text-shadow: none;
+}
+
+
+/* Slides */
+.tl-slide {
+  font-family: "Arial Narrow", "Arial";
+}
+
+.tl-text p,
+.tl-text .tl-headline-date,
+.tl-text h3.tl-headline-date {
+  color: rgb(95,135,165);
+}
+.tl-timeline h1,
+.tl-timeline h2,
+.tl-timeline h3,
+.tl-timeline h4,
+.tl-timeline h5,
+.tl-timeline h6{
+  color: rgb(0,82,140);
+}
+.tl-media-shadow {
+  box-shadow: none;
+}
+
+
+img.tl-media-shadow {
+  border: 1px solid rgb(0,82,140);
+}
+
+.tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-icon,
+.tl-slidenav-next .tl-slidenav-content-container .tl-slidenav-icon {
+  color: rgb(0,82,140);
+}
+.tl-slidenav-next .tl-slidenav-content-container .tl-slidenav-description, .tl-slidenav-next .tl-slidenav-content-container .tl-slidenav-icon, .tl-slidenav-next .tl-slidenav-content-container .tl-slidenav-title, .tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-description, .tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-icon, .tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-title{
+  color: rgb(0,82,140);
 }
