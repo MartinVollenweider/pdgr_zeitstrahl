@@ -1,7 +1,7 @@
 ﻿{
     "title": {
         "media": {
-          "url": "assets/77_01.jpg"
+          "url": "assets/77_01_start.jpg"
         },
         "text": {
           "headline": "Psychiatrische Dienste Graubünden<br/>1877 - 2017",
@@ -11,7 +11,7 @@
     "events": [
       {
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1847_Pirminsberg.jpg"
         },
         "start_date": {
           "year": "1847"
@@ -23,7 +23,7 @@
       },
       {
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1850_Zwangsstuhl.jpg"
         },
         "start_date": {
           "year": "1850"
@@ -59,7 +59,7 @@
       },
 	  {
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1877_hilfsverein.jpg"
         },
         "start_date": {
           "year": "1877"
@@ -83,14 +83,14 @@
       },
 	  {
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1889_Klinik_Waldhaus_Bau.jpg"
         },
         "start_date": {
           "year": "1889"
         },
         "text": {
           "headline": "Bau",
-          "text": "<p>Nach der Volksabstimmung von 7. April 1889, die mit 11230 Ja zu 391 Nein als einmaliges Glanzresultat in die Geschichte einging, wurde mit dem Bau begonnen. Der als einstöckig geplante Haupttrakt wird gleich zweistöckig gebaut. Die unterschiedlichen Angaben der Quellen zweistöckig oder dreistöckig liegen im baugeschichtlich falschen Mitzählen des Hochparterres begründet. Die Anstalt wird für 200 Patienten gebaut. Finanziell mitgetragen wird der Bau dank einer Schenkung des Freiherrn Clemens von Loë.</p>"
+          "text": "<p>Nach der Volksabstimmung von 7. April 1889, die mit 11230 Ja zu 391 Nein als einmaliges Glanzresultat in die Geschichte einging, wurde mit dem Bau begonnen. Der als einstöckig geplante Haupttrakt wird gleich zweistöckig gebaut. Die unterschiedlichen Angaben der Quellen zweistöckig oder dreistöckig liegen im baugeschichtlich falschen Mitzählen des Hochparterres begründet. Die Anstalt wird für 200 Patienten gebaut. Finanziell mitgetragen wird der Bau dank einer Schenkung des Freiherrn Clemens von Loë.</p><p><button onclick='modalOpen(1889)'>Mehr Bilder</button></p>"
         }
       },
 	  {
@@ -147,19 +147,19 @@
       },
 		{
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1900_Deckelbad.jpg"
         },
         "start_date": {
           "year": "1900"
         },
         "text": {
           "headline": "Deckelbad und Zwangsjacke",
-          "text": "<p>Das Deckelbad und die Zwangsjacke werden auch zu Beginn dieses Jahrhunderts im Waldhaus verwendet.</p><p>Dr. O. Snell schreibt in seinem Buch «Grundzüge der Irrenpflege für Studierende und Ärzte»: Bäder sind in allen Abteilungen notwendig. Sie dienen zwei verschiedenen Zwecken: <br>zur Hautpflege und als direktes Beruhigungsmittel. Vorrichtungen die dazu dienen, den Kranken in der Badewanne gegen seinen Willen festzuhalten (sog. Deckelbadewannen) halte ich grundsätzlich für verwerflich. Dabei gebe ich zu, dass man durch die Vermeidung dieses Zwangsmittel bei einer Anzahl von unruhigen Kranken auf ein wirksame Beruhigungsmittel verzichtet, denn es wird wohl von keiner Seite mehr bestritten, dass es kein besseres und ungefährlicheres Mittel zur Herbeiführung von Ruhe und Schlaf bei erregten Geisteskranken gibt als ein warmes Bad von halbstündiger bis zweistündiger Dauer.</p><p>Zur Verwendung der Zwangsjacke schreibt derselbe Arzt: «Es liegt auf der Hand, dass man den Kranken eine Wohltat erweist, wenn man sie vor schwerer Selbstbeschädigung schützt. Kommt man also mit den Handschuhen».</p>"
+          "text": "<p>Das Deckelbad und die Zwangsjacke werden auch zu Beginn dieses Jahrhunderts im Waldhaus verwendet.</p><p>Dr. O. Snell schreibt in seinem Buch «Grundzüge der Irrenpflege für Studierende und Ärzte»: Bäder sind in allen Abteilungen notwendig. Sie dienen zwei verschiedenen Zwecken: <br>zur Hautpflege und als direktes Beruhigungsmittel. Vorrichtungen die dazu dienen, den Kranken in der Badewanne gegen seinen Willen festzuhalten (sog. Deckelbadewannen) halte ich grundsätzlich für verwerflich. Dabei gebe ich zu, dass man durch die Vermeidung dieses Zwangsmittel bei einer Anzahl von unruhigen Kranken auf ein wirksame Beruhigungsmittel verzichtet, denn es wird wohl von keiner Seite mehr bestritten, dass es kein besseres und ungefährlicheres Mittel zur Herbeiführung von Ruhe und Schlaf bei erregten Geisteskranken gibt als ein warmes Bad von halbstündiger bis zweistündiger Dauer.</p><p>Zur Verwendung der Zwangsjacke schreibt derselbe Arzt: «Es liegt auf der Hand, dass man den Kranken eine Wohltat erweist, wenn man sie vor schwerer Selbstbeschädigung schützt. Kommt man also mit den Handschuhen».</p><p><button onclick='modalOpen(1900)'>Weitere Bilder</button></p>"
         }
       },
 		{
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1901_Fixiergurt.jpg"
         },
         "start_date": {
           "year": "1901"
@@ -183,7 +183,7 @@
       },
 		{
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1905_ausbildung.jpg"
         },
         "start_date": {
           "year": "1905"
@@ -267,7 +267,7 @@
       },
 		{
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1919_beverin.jpg"
         },
         "start_date": {
           "year": "1919"
@@ -326,7 +326,7 @@
       "group": "Chefärzte",
 	  "text": {
           "headline": "Chefarzt Dr. J.B. Jörger 1930 – 1946",
-          "text": "<p>Hauptsächlich therapeutische Veränderungen:</p><ul><li>Ausbau der Arbeitstherapie</li><li>Einführung der Insulinkur</li><li>Die künstlich Erzeugten Epileptischen Krampfanfälle mit Cardiazol bei Schizophrenen werden durch die Elektroschock-Behandlung ersetzt.</li></ul><p>Hauptsächlich bauliche Veränderungen:</p><ul><li>Wachsäle werden erstellt (für Bettenbehandlung wie Insulinkuren ect.)</li><li> Umbauten und Renovationen von Krankenstationen</li></ul>"
+          "text": "<p>Hauptsächlich therapeutische Veränderungen:</p><ul><li>Ausbau der Arbeitstherapie</li><li>Einführung der Insulinkur</li><li>Die künstlich Erzeugten Epileptischen Krampfanfälle mit Cardiazol bei Schizophrenen werden durch die Elektroschock-Behandlung ersetzt.</li></ul><p>Hauptsächlich bauliche Veränderungen:</p><ul><li>Wachsäle werden erstellt (für Bettenbehandlung wie Insulinkuren ect.)</li><li>Umbauten und Renovationen von Krankenstationen</li></ul><p><button onclick='modalOpen(1930)'>Details</button></p>"
         }
       },
       {
@@ -343,14 +343,14 @@
       },
 	  {
         "media": {
-          "url": "assets/platzhalter.jpg"
+          "url": "assets/1937_EKT_Behandlung_Frau.jpg"
         },
         "start_date": {
           "year": "1937"
         },
         "text": {
           "headline": "Einführung Elektrokrampftherapie",
-          "text": "<p>Ab 1937 wurde die Elektrokrampftherapie (EKT) eingeführt. Dabei handelt es sich um einen bewusst erzeugten Elektroschock auf den Organismus, der einen therapeutischen Krampfanfall auslöste, um die Ausschüttung von Neurotransmittern und Neurohormonen zu stimulieren.</p><p>Elektroschockgeräte entstanden in den 1930er Jahren und wurden als Standartbehandlung für alle Geisteskrankheiten bis in die 1970er Jahre benutzt. In der Klinik Waldhaus führte Oberärztin Dr. Elisabeth Vosseler im Jahre 1978 die letzten Elektroschock-behandlungen durch (im 2. OG des Hauptgebäudes).</p>"
+          "text": "<p>Ab 1937 wurde die Elektrokrampftherapie (EKT) eingeführt. Dabei handelt es sich um einen bewusst erzeugten Elektroschock auf den Organismus, der einen therapeutischen Krampfanfall auslöste, um die Ausschüttung von Neurotransmittern und Neurohormonen zu stimulieren.</p><p>Elektroschockgeräte entstanden in den 1930er Jahren und wurden als Standartbehandlung für alle Geisteskrankheiten bis in die 1970er Jahre benutzt. In der Klinik Waldhaus führte Oberärztin Dr. Elisabeth Vosseler im Jahre 1978 die letzten Elektroschock-behandlungen durch (im 2. OG des Hauptgebäudes).</p><p><button onclick='modalOpen(1937)'>weitere Bilder</button></p>"
         }
       },
 	  {
@@ -401,7 +401,7 @@
       "group": "Chefärzte",
       "text": {
         "headline": "Chefarzt Dr. F. Singeisem",
-        "text": "<p>Wesentliche Veränderungen:</p><ul><li>Modernisierung der Beschäftigungstherapien</li><li>Medikamentöse Entwöhnungskuren für Alkohol-Kranke</li><li>Ausbildung des Pflegepersonals</li><li>Verbesserung der Zusammenarbeit mit Behörden und Spezialärzten</li><li>Öffentlichkeitsarbeit</li></ul><p>Die Siedlung \"Montalin\" wird fertiggestellt und von Mitarbeitenden bezogen.</p>"
+        "text": "<p>Wesentliche Veränderungen:</p><ul><li>Modernisierung der Beschäftigungstherapien</li><li>Medikamentöse Entwöhnungskuren für Alkohol-Kranke</li><li>Ausbildung des Pflegepersonals</li><li>Verbesserung der Zusammenarbeit mit Behörden und Spezialärzten</li><li>Öffentlichkeitsarbeit</li></ul><p>Die Siedlung \"Montalin\" wird fertiggestellt und von Mitarbeitenden bezogen.</p><p><button onclick='modalOpen(1946)'>Details</button></p>"
       }
     },
     {
